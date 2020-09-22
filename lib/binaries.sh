@@ -2,7 +2,7 @@
 
 RESOLVE="$BP_DIR/lib/vendor/resolve-version-$(get_os)"
 
-resolve() {
+resolve_outdated() {
   local binary="$1"
   local versionRequirement="$2"
   local n=0
@@ -44,7 +44,7 @@ install_yarn() {
     echo "Downloading and installing yarn from $url"
   else
     echo "Resolving yarn version $version..."
-    resolve_result=$(resolve yarn "$version" || echo "failed")
+    resolve_result=$(resolve "$BP_DIR/inventory/yarn.toml" "$version" || echo "failed")
 
     if [[ "$resolve_result" == "failed" ]]; then
       fail_bin_install yarn "$version"
@@ -90,7 +90,7 @@ install_nodejs() {
     echo "Downloading and installing node from $url"
   else
     echo "Resolving node version $version..."
-    resolve_result=$(resolve node "$version" || echo "failed")
+    resolve_result=$(resolve "$BP_DIR/inventory/node.toml" "$version" || echo "failed")
 
     read -r number url < <(echo "$resolve_result")
 
@@ -100,6 +100,9 @@ install_nodejs() {
 
     echo "Downloading and installing node $number..."
   fi
+
+  echo $number
+  echo $url
 
   code=$(curl "$url" -L --silent --fail --retry 5 --retry-max-time 15 -o /tmp/node.tar.gz --write-out "%{http_code}")
 
