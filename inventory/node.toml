@@ -3716,6 +3716,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v10.22.1-linux-x64.tar.gz"
 etag = "92b244406470e9a4f49cc233675fdf96-3"
+security = true
 
 [[releases]]
 version = "10.3.0"
@@ -4038,6 +4039,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v12.18.4-linux-x64.tar.gz"
 etag = "fdecf94ced8dcdeb972e14b333c72e47-3"
+security = true
 
 [[releases]]
 version = "12.2.0"
@@ -4269,6 +4271,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v14.11.0-linux-x64.tar.gz"
 etag = "5f0b0d752a988c5846e2850251d0de6e-5"
+security = true
 
 [[releases]]
 version = "14.12.0"
