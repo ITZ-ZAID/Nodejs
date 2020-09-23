@@ -112,6 +112,7 @@ install_nodejs() {
   chmod +x "$dir"/bin/*
 
   warn_vulnerable_node "$number"
+  warn_deprecated_node "$number"
 }
 
 install_npm() {

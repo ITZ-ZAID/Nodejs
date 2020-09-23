@@ -6,6 +6,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v0.10.0-darwin-x64.tar.gz"
 etag = "739c200ca266266ff150ad4d89b83205"
+deprecated = true
 
 [[releases]]
 version = "0.10.1"
@@ -13,6 +14,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v0.10.1-darwin-x64.tar.gz"
 etag = "add2c86408c51ca108e2014030dded1d"
+deprecated = true
 
 [[releases]]
 version = "0.10.10"
@@ -20,6 +22,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v0.10.10-darwin-x64.tar.gz"
 etag = "f6721ca79d7402ddc881ea8f4380b0c2"
+deprecated = true
 
 [[releases]]
 version = "0.10.11"
@@ -27,6 +30,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v0.10.11-darwin-x64.tar.gz"
 etag = "ce0674b2322d7c33664212d211aa4bb9"
+deprecated = true
 
 [[releases]]
 version = "0.10.12"
@@ -34,6 +38,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v0.10.12-darwin-x64.tar.gz"
 etag = "23804ca5de6d2a6139ead017faf1ed60"
+deprecated = true
 
 [[releases]]
 version = "0.10.13"
@@ -41,6 +46,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v0.10.13-darwin-x64.tar.gz"
 etag = "d5a63c84cdb39b470f7ad3dc45c2727a"
+deprecated = true
 
 [[releases]]
 version = "0.10.14"
@@ -48,6 +54,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v0.10.14-darwin-x64.tar.gz"
 etag = "4386f721ba4e862b946f163b62cf61db"
+deprecated = true
 
 [[releases]]
 version = "0.10.15"
@@ -55,6 +62,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v0.10.15-darwin-x64.tar.gz"
 etag = "996c64a09c2a36cddfbf3cdfce493a51"
+deprecated = true
 
 [[releases]]
 version = "0.10.16"
@@ -62,6 +70,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v0.10.16-darwin-x64.tar.gz"
 etag = "d53b6340de354eb048cc7703a44e9b33"
+deprecated = true
 
 [[releases]]
 version = "0.10.17"
@@ -69,6 +78,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v0.10.17-darwin-x64.tar.gz"
 etag = "f67479fe9e0524344a50407575f6c251"
+deprecated = true
 
 [[releases]]
 version = "0.10.18"
@@ -76,6 +86,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v0.10.18-darwin-x64.tar.gz"
 etag = "0aa4270c3c6b2907041ac0d4e1d06731"
+deprecated = true
 
 [[releases]]
 version = "0.10.19"
@@ -83,6 +94,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v0.10.19-darwin-x64.tar.gz"
 etag = "d84eaf1d2a4445ae99d55f0c3a3b5cb0"
+deprecated = true
 
 [[releases]]
 version = "0.10.2"
@@ -90,6 +102,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v0.10.2-darwin-x64.tar.gz"
 etag = "d7217ca7e7710e04d8f4071bf601874b"
+deprecated = true
 
 [[releases]]
 version = "0.10.20"
@@ -97,6 +110,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v0.10.20-darwin-x64.tar.gz"
 etag = "165eb79335dfa844823ed07eebd571ba"
+deprecated = true
 
 [[releases]]
 version = "0.10.21"
@@ -104,6 +118,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v0.10.21-darwin-x64.tar.gz"
 etag = "4cd170168374738bc0c1818c94592be5"
+deprecated = true
 
 [[releases]]
 version = "0.10.22"
@@ -111,6 +126,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v0.10.22-darwin-x64.tar.gz"
 etag = "3541e529c8be6ac367b388a68d32844f"
+deprecated = true
 
 [[releases]]
 version = "0.10.23"
@@ -118,6 +134,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v0.10.23-darwin-x64.tar.gz"
 etag = "8dc094d98bd38f521f84016d4a0ea6d4"
+deprecated = true
 
 [[releases]]
 version = "0.10.24"
@@ -125,6 +142,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v0.10.24-darwin-x64.tar.gz"
 etag = "6127fae6281e5e40dc353e05da190e93"
+deprecated = true
 
 [[releases]]
 version = "0.10.25"
@@ -132,6 +150,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v0.10.25-darwin-x64.tar.gz"
 etag = "9323f6b7987407b9eb8d1402c7741f1a"
+deprecated = true
 
 [[releases]]
 version = "0.10.26"
@@ -139,6 +158,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v0.10.26-darwin-x64.tar.gz"
 etag = "34520fbfd822d3899b49eeaafcdbf170"
+deprecated = true
 
 [[releases]]
 version = "0.10.27"
@@ -146,6 +166,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v0.10.27-darwin-x64.tar.gz"
 etag = "a799579a84476983eb6e387f5185ebf0"
+deprecated = true
 
 [[releases]]
 version = "0.10.28"
@@ -153,6 +174,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v0.10.28-darwin-x64.tar.gz"
 etag = "fffb965e05b2c6f0b7a7b22f33ffad34"
+deprecated = true
 
 [[releases]]
 version = "0.10.29"
@@ -160,6 +182,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v0.10.29-darwin-x64.tar.gz"
 etag = "beb1de9f25c28f417d493124f0e49e53"
+deprecated = true
 
 [[releases]]
 version = "0.10.3"
@@ -167,6 +190,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v0.10.3-darwin-x64.tar.gz"
 etag = "b7effabcbff4fe1dca4e8a5c6bc1fb5c"
+deprecated = true
 
 [[releases]]
 version = "0.10.30"
@@ -174,6 +198,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v0.10.30-darwin-x64.tar.gz"
 etag = "3973ca6d1367474ca02850fb5d7a9d57"
+deprecated = true
 
 [[releases]]
 version = "0.10.31"
@@ -181,6 +206,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v0.10.31-darwin-x64.tar.gz"
 etag = "7a833d417b76c305366b09102eda94d0"
+deprecated = true
 
 [[releases]]
 version = "0.10.32"
@@ -188,6 +214,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v0.10.32-darwin-x64.tar.gz"
 etag = "bd5a65196c2ebe33c0251f19c5321b52"
+deprecated = true
 
 [[releases]]
 version = "0.10.33"
@@ -195,6 +222,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v0.10.33-darwin-x64.tar.gz"
 etag = "6fba8115b885c622d06683d75c676f48"
+deprecated = true
 
 [[releases]]
 version = "0.10.34"
@@ -202,6 +230,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v0.10.34-darwin-x64.tar.gz"
 etag = "62a928fc2a73d860c460865cf123c575"
+deprecated = true
 
 [[releases]]
 version = "0.10.35"
@@ -209,6 +238,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v0.10.35-darwin-x64.tar.gz"
 etag = "7d8e8de66e727e9bc51dead89a7b14cc"
+deprecated = true
 
 [[releases]]
 version = "0.10.36"
@@ -216,6 +246,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v0.10.36-darwin-x64.tar.gz"
 etag = "215ab4fb1cf6e767650ef0d3cd606e17"
+deprecated = true
 
 [[releases]]
 version = "0.10.37"
@@ -223,6 +254,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v0.10.37-darwin-x64.tar.gz"
 etag = "0603dedf1d2026c2331b669f53dc26e1"
+deprecated = true
 
 [[releases]]
 version = "0.10.38"
@@ -230,6 +262,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v0.10.38-darwin-x64.tar.gz"
 etag = "03a18da46350772ecae75ed58908477c"
+deprecated = true
 
 [[releases]]
 version = "0.10.39"
@@ -237,6 +270,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v0.10.39-darwin-x64.tar.gz"
 etag = "e5f59d0ee5a09c81d78395c1dd993a46"
+deprecated = true
 
 [[releases]]
 version = "0.10.4"
@@ -244,6 +278,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v0.10.4-darwin-x64.tar.gz"
 etag = "9fbb0184a5df999712948124cf09dc05"
+deprecated = true
 
 [[releases]]
 version = "0.10.40"
@@ -251,6 +286,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v0.10.40-darwin-x64.tar.gz"
 etag = "76c54366530314da504a5007f15a5aec"
+deprecated = true
 
 [[releases]]
 version = "0.10.41"
@@ -258,6 +294,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v0.10.41-darwin-x64.tar.gz"
 etag = "c677ea00932040e381c23cbd44c0803c"
+deprecated = true
 
 [[releases]]
 version = "0.10.42"
@@ -265,6 +302,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v0.10.42-darwin-x64.tar.gz"
 etag = "a6ba39e90330d93157d57285a64ec452"
+deprecated = true
 
 [[releases]]
 version = "0.10.43"
@@ -272,6 +310,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v0.10.43-darwin-x64.tar.gz"
 etag = "9f780366c50e11d2568a8625a59daff7"
+deprecated = true
 
 [[releases]]
 version = "0.10.44"
@@ -279,6 +318,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v0.10.44-darwin-x64.tar.gz"
 etag = "d8d2ea8e88b0f2cd5ae7aed433fc311e"
+deprecated = true
 
 [[releases]]
 version = "0.10.45"
@@ -286,6 +326,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v0.10.45-darwin-x64.tar.gz"
 etag = "a17db31698018e08a476eedc5e598b6e"
+deprecated = true
 
 [[releases]]
 version = "0.10.46"
@@ -293,6 +334,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v0.10.46-darwin-x64.tar.gz"
 etag = "5f73583d287cf3914f07f787792b5d9c"
+deprecated = true
 
 [[releases]]
 version = "0.10.47"
@@ -300,6 +342,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v0.10.47-darwin-x64.tar.gz"
 etag = "d63dfd67feabdd2cbe45d4abec11d9e3"
+deprecated = true
 
 [[releases]]
 version = "0.10.48"
@@ -307,6 +350,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v0.10.48-darwin-x64.tar.gz"
 etag = "8f543018e5a064588c3bb702cadccafd"
+deprecated = true
 
 [[releases]]
 version = "0.10.5"
@@ -314,6 +358,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v0.10.5-darwin-x64.tar.gz"
 etag = "38fe9f773e5a5ff45c3fec18d1049985"
+deprecated = true
 
 [[releases]]
 version = "0.10.6"
@@ -321,6 +366,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v0.10.6-darwin-x64.tar.gz"
 etag = "7a5967f8f2c1ecf88e82d00e63171fb4"
+deprecated = true
 
 [[releases]]
 version = "0.10.7"
@@ -328,6 +374,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v0.10.7-darwin-x64.tar.gz"
 etag = "55bc3ff33a8f1f75a87e1833fddea26e"
+deprecated = true
 
 [[releases]]
 version = "0.10.8"
@@ -335,6 +382,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v0.10.8-darwin-x64.tar.gz"
 etag = "3a1cf754787f708b693ba306c4acf169"
+deprecated = true
 
 [[releases]]
 version = "0.10.9"
@@ -342,6 +390,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v0.10.9-darwin-x64.tar.gz"
 etag = "a7328931bb7bd251c7d41dbf927e0d41"
+deprecated = true
 
 [[releases]]
 version = "0.11.0"
@@ -349,6 +398,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v0.11.0-darwin-x64.tar.gz"
 etag = "38f7c4238b49e8c4073e754f7ffdb19c"
+deprecated = true
 
 [[releases]]
 version = "0.11.1"
@@ -356,6 +406,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v0.11.1-darwin-x64.tar.gz"
 etag = "32608390f1fe57f48c187f1c9d2b4e18"
+deprecated = true
 
 [[releases]]
 version = "0.11.10"
@@ -363,6 +414,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v0.11.10-darwin-x64.tar.gz"
 etag = "738f72c339d4071c8e61c793da2e52d1"
+deprecated = true
 
 [[releases]]
 version = "0.11.11"
@@ -370,6 +422,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v0.11.11-darwin-x64.tar.gz"
 etag = "982cc2b49d3e5babdf5bd562fe4c0926"
+deprecated = true
 
 [[releases]]
 version = "0.11.12"
@@ -377,6 +430,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v0.11.12-darwin-x64.tar.gz"
 etag = "afcf17c85420c2c73e45339ded62fa8d"
+deprecated = true
 
 [[releases]]
 version = "0.11.13"
@@ -384,6 +438,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v0.11.13-darwin-x64.tar.gz"
 etag = "21ad4ffb7818e0a417db9337259c396e"
+deprecated = true
 
 [[releases]]
 version = "0.11.14"
@@ -391,6 +446,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v0.11.14-darwin-x64.tar.gz"
 etag = "002ed72f0088c5dddbb1be01c2af0638"
+deprecated = true
 
 [[releases]]
 version = "0.11.15"
@@ -398,6 +454,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v0.11.15-darwin-x64.tar.gz"
 etag = "e3d0eb56dd809049e5702c73d4045a78"
+deprecated = true
 
 [[releases]]
 version = "0.11.16"
@@ -405,6 +462,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v0.11.16-darwin-x64.tar.gz"
 etag = "73634a80432dbbfacada263f6cec36cb"
+deprecated = true
 
 [[releases]]
 version = "0.11.2"
@@ -412,6 +470,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v0.11.2-darwin-x64.tar.gz"
 etag = "3feeee79ae46834e75572c625c0f0542"
+deprecated = true
 
 [[releases]]
 version = "0.11.3"
@@ -419,6 +478,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v0.11.3-darwin-x64.tar.gz"
 etag = "1e56e19afbd95bd795c20056eed4933a"
+deprecated = true
 
 [[releases]]
 version = "0.11.4"
@@ -426,6 +486,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v0.11.4-darwin-x64.tar.gz"
 etag = "ae5c57a9f852fbc9529423e65aa8b696"
+deprecated = true
 
 [[releases]]
 version = "0.11.5"
@@ -433,6 +494,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v0.11.5-darwin-x64.tar.gz"
 etag = "d50ee079ce3cbb49d3f41afef4fecb23"
+deprecated = true
 
 [[releases]]
 version = "0.11.6"
@@ -440,6 +502,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v0.11.6-darwin-x64.tar.gz"
 etag = "6b2ccf9eb054ee10d0673b9357c9a297"
+deprecated = true
 
 [[releases]]
 version = "0.11.7"
@@ -447,6 +510,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v0.11.7-darwin-x64.tar.gz"
 etag = "196d5b28789d1ee20e038193ef7a23de"
+deprecated = true
 
 [[releases]]
 version = "0.11.8"
@@ -454,6 +518,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v0.11.8-darwin-x64.tar.gz"
 etag = "d483c05cbb31924d3bdea30f26f49d23"
+deprecated = true
 
 [[releases]]
 version = "0.11.9"
@@ -461,6 +526,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v0.11.9-darwin-x64.tar.gz"
 etag = "f89e4994ab1c7277a78a0e6d4c0899c3"
+deprecated = true
 
 [[releases]]
 version = "0.12.0"
@@ -468,6 +534,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v0.12.0-darwin-x64.tar.gz"
 etag = "1d8d0e3c3c0ccfd45c055b42c26c1ca7"
+deprecated = true
 
 [[releases]]
 version = "0.12.1"
@@ -475,6 +542,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v0.12.1-darwin-x64.tar.gz"
 etag = "592ba6e0e99bd8fc58e448f5d9e500cc"
+deprecated = true
 
 [[releases]]
 version = "0.12.10"
@@ -482,6 +550,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v0.12.10-darwin-x64.tar.gz"
 etag = "d9ee01290fc87e63206fb30b5069bb11"
+deprecated = true
 
 [[releases]]
 version = "0.12.11"
@@ -489,6 +558,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v0.12.11-darwin-x64.tar.gz"
 etag = "416dac6ff5d849922bf1d3e0d724bae4"
+deprecated = true
 
 [[releases]]
 version = "0.12.12"
@@ -496,6 +566,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v0.12.12-darwin-x64.tar.gz"
 etag = "ef7e7ab15d21c2d2648293937d0ae44a"
+deprecated = true
 
 [[releases]]
 version = "0.12.13"
@@ -503,6 +574,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v0.12.13-darwin-x64.tar.gz"
 etag = "c6803787452700a9ec319ec2286ff8de"
+deprecated = true
 
 [[releases]]
 version = "0.12.14"
@@ -510,6 +582,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v0.12.14-darwin-x64.tar.gz"
 etag = "e3205a937b4540885f1063f797fce988"
+deprecated = true
 
 [[releases]]
 version = "0.12.15"
@@ -517,6 +590,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v0.12.15-darwin-x64.tar.gz"
 etag = "419ace8c46216989e12a741a44a7731a"
+deprecated = true
 
 [[releases]]
 version = "0.12.16"
@@ -524,6 +598,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v0.12.16-darwin-x64.tar.gz"
 etag = "ee30295fa1aefbfb225463a3b8456363"
+deprecated = true
 
 [[releases]]
 version = "0.12.17"
@@ -531,6 +606,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v0.12.17-darwin-x64.tar.gz"
 etag = "b0b4f1030e12d2b512bbcf90732baf0d"
+deprecated = true
 
 [[releases]]
 version = "0.12.18"
@@ -538,6 +614,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v0.12.18-darwin-x64.tar.gz"
 etag = "49c80986b9d5b1acbf6ad8a1999b6cea"
+deprecated = true
 
 [[releases]]
 version = "0.12.2"
@@ -545,6 +622,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v0.12.2-darwin-x64.tar.gz"
 etag = "fb2fd0e602bc4c0ee4daaff5dac200c6"
+deprecated = true
 
 [[releases]]
 version = "0.12.3"
@@ -552,6 +630,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v0.12.3-darwin-x64.tar.gz"
 etag = "e35219a458ddb2e9e6c24d119b02d1b3"
+deprecated = true
 
 [[releases]]
 version = "0.12.4"
@@ -559,6 +638,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v0.12.4-darwin-x64.tar.gz"
 etag = "b9f311cd43f3e51ac4123f7750989d95"
+deprecated = true
 
 [[releases]]
 version = "0.12.5"
@@ -566,6 +646,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v0.12.5-darwin-x64.tar.gz"
 etag = "0d7ed0f9aab35c791b8064f18b6e2745"
+deprecated = true
 
 [[releases]]
 version = "0.12.6"
@@ -573,6 +654,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v0.12.6-darwin-x64.tar.gz"
 etag = "f435cb7650ae7d4019b51e08c4d62d65"
+deprecated = true
 
 [[releases]]
 version = "0.12.7"
@@ -580,6 +662,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v0.12.7-darwin-x64.tar.gz"
 etag = "ca4897256e00f5b8523cb84e85ad83ea"
+deprecated = true
 
 [[releases]]
 version = "0.12.8"
@@ -587,6 +670,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v0.12.8-darwin-x64.tar.gz"
 etag = "5c25cb525ac6f97b5c0c2eec00111623"
+deprecated = true
 
 [[releases]]
 version = "0.12.9"
@@ -594,6 +678,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v0.12.9-darwin-x64.tar.gz"
 etag = "45b61d6b3c5cdaac0f4046db0565ecbc"
+deprecated = true
 
 [[releases]]
 version = "0.8.10"
@@ -601,6 +686,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v0.8.10-darwin-x64.tar.gz"
 etag = "56dab27cc904791dd324a29e30fe8ae7"
+deprecated = true
 
 [[releases]]
 version = "0.8.11"
@@ -608,6 +694,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v0.8.11-darwin-x64.tar.gz"
 etag = "a35e1376822d0fbad51daadde7cabad7"
+deprecated = true
 
 [[releases]]
 version = "0.8.12"
@@ -615,6 +702,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v0.8.12-darwin-x64.tar.gz"
 etag = "60547b643e4f0966a20cf42407466563"
+deprecated = true
 
 [[releases]]
 version = "0.8.13"
@@ -622,6 +710,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v0.8.13-darwin-x64.tar.gz"
 etag = "61337c8953075670391a8752bda13bda"
+deprecated = true
 
 [[releases]]
 version = "0.8.14"
@@ -629,6 +718,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v0.8.14-darwin-x64.tar.gz"
 etag = "a2c406dddc355c67a6d56fc54d8d39bd"
+deprecated = true
 
 [[releases]]
 version = "0.8.15"
@@ -636,6 +726,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v0.8.15-darwin-x64.tar.gz"
 etag = "b1bf7b088912361e46b5138b64475516"
+deprecated = true
 
 [[releases]]
 version = "0.8.16"
@@ -643,6 +734,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v0.8.16-darwin-x64.tar.gz"
 etag = "face3eaa75cd5aba019ee978813c1d17"
+deprecated = true
 
 [[releases]]
 version = "0.8.17"
@@ -650,6 +742,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v0.8.17-darwin-x64.tar.gz"
 etag = "57832104e0536cb63412197159fe77cf"
+deprecated = true
 
 [[releases]]
 version = "0.8.18"
@@ -657,6 +750,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v0.8.18-darwin-x64.tar.gz"
 etag = "02ee6073e6a87f7c9c00dd602db07163"
+deprecated = true
 
 [[releases]]
 version = "0.8.19"
@@ -664,6 +758,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v0.8.19-darwin-x64.tar.gz"
 etag = "e8b346a4f69ae83767424550af3dd4d0"
+deprecated = true
 
 [[releases]]
 version = "0.8.20"
@@ -671,6 +766,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v0.8.20-darwin-x64.tar.gz"
 etag = "cb0c253f4fcca6b91614e5e56854b311"
+deprecated = true
 
 [[releases]]
 version = "0.8.21"
@@ -678,6 +774,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v0.8.21-darwin-x64.tar.gz"
 etag = "38319ebdc4d2d85d60344f483de0283b"
+deprecated = true
 
 [[releases]]
 version = "0.8.22"
@@ -685,6 +782,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v0.8.22-darwin-x64.tar.gz"
 etag = "fbf42b4daf46c9e116ed01fff61b4c23"
+deprecated = true
 
 [[releases]]
 version = "0.8.23"
@@ -692,6 +790,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v0.8.23-darwin-x64.tar.gz"
 etag = "3f6a2cb26cdf7f350b5d2e2ccea98c77"
+deprecated = true
 
 [[releases]]
 version = "0.8.24"
@@ -699,6 +798,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v0.8.24-darwin-x64.tar.gz"
 etag = "a42122be1f420bdf57c251babf5d8070"
+deprecated = true
 
 [[releases]]
 version = "0.8.25"
@@ -706,6 +806,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v0.8.25-darwin-x64.tar.gz"
 etag = "e89e8300224a071d31ca80c507b9a1f1"
+deprecated = true
 
 [[releases]]
 version = "0.8.26"
@@ -713,6 +814,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v0.8.26-darwin-x64.tar.gz"
 etag = "d280e8b57089db7620373b7d398dc39a"
+deprecated = true
 
 [[releases]]
 version = "0.8.27"
@@ -720,6 +822,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v0.8.27-darwin-x64.tar.gz"
 etag = "3028f490e2e457d67aeb8d4f2835fd33"
+deprecated = true
 
 [[releases]]
 version = "0.8.28"
@@ -727,6 +830,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v0.8.28-darwin-x64.tar.gz"
 etag = "6ab1225ea01032b87d2a9a08adb3402e"
+deprecated = true
 
 [[releases]]
 version = "0.8.6"
@@ -734,6 +838,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v0.8.6-darwin-x64.tar.gz"
 etag = "b5ff6ae04cbf8fe84bc0cffca9fdff7b"
+deprecated = true
 
 [[releases]]
 version = "0.8.7"
@@ -741,6 +846,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v0.8.7-darwin-x64.tar.gz"
 etag = "324266fbf25ba05282209f5bbd60ff11"
+deprecated = true
 
 [[releases]]
 version = "0.8.8"
@@ -748,6 +854,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v0.8.8-darwin-x64.tar.gz"
 etag = "084e6edf8e73a97344cea02fa868e3b1"
+deprecated = true
 
 [[releases]]
 version = "0.8.9"
@@ -755,6 +862,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v0.8.9-darwin-x64.tar.gz"
 etag = "07fe9ebaf6b620cd6ba74370c4f35882"
+deprecated = true
 
 [[releases]]
 version = "0.9.1"
@@ -762,6 +870,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v0.9.1-darwin-x64.tar.gz"
 etag = "50be3aa0d3ee2cede7b4ab972e5175d5"
+deprecated = true
 
 [[releases]]
 version = "0.9.10"
@@ -769,6 +878,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v0.9.10-darwin-x64.tar.gz"
 etag = "88120d7fa1717334114e4a80d0cb0365"
+deprecated = true
 
 [[releases]]
 version = "0.9.11"
@@ -776,6 +886,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v0.9.11-darwin-x64.tar.gz"
 etag = "795a3c869bdb384b34b68e6406bf145f"
+deprecated = true
 
 [[releases]]
 version = "0.9.12"
@@ -783,6 +894,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v0.9.12-darwin-x64.tar.gz"
 etag = "8a56c23f7a5e3724e1bface4398f83ba"
+deprecated = true
 
 [[releases]]
 version = "0.9.2"
@@ -790,6 +902,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v0.9.2-darwin-x64.tar.gz"
 etag = "0c9a0e751ee1b069c835039cc1116f15"
+deprecated = true
 
 [[releases]]
 version = "0.9.3"
@@ -797,6 +910,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v0.9.3-darwin-x64.tar.gz"
 etag = "8141db63871daaaada2db8b8982a1429"
+deprecated = true
 
 [[releases]]
 version = "0.9.4"
@@ -804,6 +918,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v0.9.4-darwin-x64.tar.gz"
 etag = "e9062b989187f679e81070773d041ca5"
+deprecated = true
 
 [[releases]]
 version = "0.9.5"
@@ -811,6 +926,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v0.9.5-darwin-x64.tar.gz"
 etag = "43c36503c316aee0bd66ea360e0d26e0"
+deprecated = true
 
 [[releases]]
 version = "0.9.6"
@@ -818,6 +934,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v0.9.6-darwin-x64.tar.gz"
 etag = "f31a916da408a2c33e2902e9c393be97"
+deprecated = true
 
 [[releases]]
 version = "0.9.7"
@@ -825,6 +942,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v0.9.7-darwin-x64.tar.gz"
 etag = "acb9e55c00a49b1b5ef1226b3b66e327"
+deprecated = true
 
 [[releases]]
 version = "0.9.8"
@@ -832,6 +950,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v0.9.8-darwin-x64.tar.gz"
 etag = "077b15f7b31a1143e008f8ca3a2a747a"
+deprecated = true
 
 [[releases]]
 version = "0.9.9"
@@ -839,6 +958,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v0.9.9-darwin-x64.tar.gz"
 etag = "fda6cf91f58e44dfa9686915ba00b29f"
+deprecated = true
 
 [[releases]]
 version = "10.0.0"
@@ -1063,6 +1183,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v11.0.0-darwin-x64.tar.gz"
 etag = "ecc3e19ec147553f53a1d55cd7985054"
+deprecated = true
 
 [[releases]]
 version = "11.1.0"
@@ -1070,6 +1191,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v11.1.0-darwin-x64.tar.gz"
 etag = "58249d44f40a5a5299fa83f3fd1ee36c"
+deprecated = true
 
 [[releases]]
 version = "11.10.0"
@@ -1077,6 +1199,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v11.10.0-darwin-x64.tar.gz"
 etag = "bf5fd780114c9e7981146a4909e2ffde"
+deprecated = true
 
 [[releases]]
 version = "11.10.1"
@@ -1084,6 +1207,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v11.10.1-darwin-x64.tar.gz"
 etag = "80ac0921ffeca782eabae1e543cf5a1d"
+deprecated = true
 
 [[releases]]
 version = "11.11.0"
@@ -1091,6 +1215,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v11.11.0-darwin-x64.tar.gz"
 etag = "736858f23fb79479af941461817424a4"
+deprecated = true
 
 [[releases]]
 version = "11.12.0"
@@ -1098,6 +1223,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v11.12.0-darwin-x64.tar.gz"
 etag = "77636576d7ba54c52a984e9891413b16"
+deprecated = true
 
 [[releases]]
 version = "11.13.0"
@@ -1105,6 +1231,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v11.13.0-darwin-x64.tar.gz"
 etag = "56d811e1709ae0ba4b591ee2489003c3"
+deprecated = true
 
 [[releases]]
 version = "11.14.0"
@@ -1112,6 +1239,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v11.14.0-darwin-x64.tar.gz"
 etag = "59478d7f4976d5d4248b8e6d24b19270"
+deprecated = true
 
 [[releases]]
 version = "11.15.0"
@@ -1119,6 +1247,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v11.15.0-darwin-x64.tar.gz"
 etag = "3cc7ff95006b05b6d8cb7b727388c19b"
+deprecated = true
 
 [[releases]]
 version = "11.2.0"
@@ -1126,6 +1255,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v11.2.0-darwin-x64.tar.gz"
 etag = "3dbded714a5cebaf5ac447c4484e32fe"
+deprecated = true
 
 [[releases]]
 version = "11.3.0"
@@ -1133,6 +1263,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v11.3.0-darwin-x64.tar.gz"
 etag = "d15a0a760aeb7fcd4c0b6a25529759c0"
+deprecated = true
 
 [[releases]]
 version = "11.4.0"
@@ -1140,6 +1271,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v11.4.0-darwin-x64.tar.gz"
 etag = "0badf49f8d6aa6d8132916052547865d"
+deprecated = true
 
 [[releases]]
 version = "11.5.0"
@@ -1147,6 +1279,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v11.5.0-darwin-x64.tar.gz"
 etag = "f1968a180739aec5a35e7778b77d4bea"
+deprecated = true
 
 [[releases]]
 version = "11.6.0"
@@ -1154,6 +1287,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v11.6.0-darwin-x64.tar.gz"
 etag = "bc6044faecbd1a216d11ab8ac05f3a41"
+deprecated = true
 
 [[releases]]
 version = "11.7.0"
@@ -1161,6 +1295,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v11.7.0-darwin-x64.tar.gz"
 etag = "ccea4d6956bf66ce6af96cefb93d1f04"
+deprecated = true
 
 [[releases]]
 version = "11.8.0"
@@ -1168,6 +1303,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v11.8.0-darwin-x64.tar.gz"
 etag = "d7d522f5bf1e1821d258cdb3ebf87e7c"
+deprecated = true
 
 [[releases]]
 version = "11.9.0"
@@ -1175,6 +1311,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v11.9.0-darwin-x64.tar.gz"
 etag = "1dce07e744fd518a9d3bf1611c0e721a"
+deprecated = true
 
 [[releases]]
 version = "12.0.0"
@@ -1357,6 +1494,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v13.0.0-darwin-x64.tar.gz"
 etag = "c29a2d0512dad49563013dcb8d2388a3"
+deprecated = true
 
 [[releases]]
 version = "13.0.1"
@@ -1364,6 +1502,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v13.0.1-darwin-x64.tar.gz"
 etag = "38d4e72e84dd08cfdf155e165df8c30d"
+deprecated = true
 
 [[releases]]
 version = "13.1.0"
@@ -1371,6 +1510,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v13.1.0-darwin-x64.tar.gz"
 etag = "5b3a440dc47f3a8be6c0bae473dbb529"
+deprecated = true
 
 [[releases]]
 version = "13.10.0"
@@ -1378,6 +1518,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v13.10.0-darwin-x64.tar.gz"
 etag = "ace887b3fabcb29c467748b45cceac48"
+deprecated = true
 
 [[releases]]
 version = "13.10.1"
@@ -1385,6 +1526,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v13.10.1-darwin-x64.tar.gz"
 etag = "6d5164fbe7b24fc12c238ee28722582c"
+deprecated = true
 
 [[releases]]
 version = "13.11.0"
@@ -1392,6 +1534,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v13.11.0-darwin-x64.tar.gz"
 etag = "3267c943b8539cb57aafb368c44f683d"
+deprecated = true
 
 [[releases]]
 version = "13.12.0"
@@ -1399,6 +1542,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v13.12.0-darwin-x64.tar.gz"
 etag = "aa056d40fcfe7f63caa212a8a6da0e69"
+deprecated = true
 
 [[releases]]
 version = "13.2.0"
@@ -1406,6 +1550,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v13.2.0-darwin-x64.tar.gz"
 etag = "5357dc8b60f0467c37f5408667fc1915"
+deprecated = true
 
 [[releases]]
 version = "13.3.0"
@@ -1413,6 +1558,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v13.3.0-darwin-x64.tar.gz"
 etag = "a2090fb5b2388c6e3a970d66a982b267"
+deprecated = true
 
 [[releases]]
 version = "13.4.0"
@@ -1420,6 +1566,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v13.4.0-darwin-x64.tar.gz"
 etag = "253f2ddb1e1507e16793df039d5c9282"
+deprecated = true
 
 [[releases]]
 version = "13.5.0"
@@ -1427,6 +1574,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v13.5.0-darwin-x64.tar.gz"
 etag = "a3660b576ee4e0afd9d631819748d7eb"
+deprecated = true
 
 [[releases]]
 version = "13.6.0"
@@ -1434,6 +1582,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v13.6.0-darwin-x64.tar.gz"
 etag = "4b02b6953ad7f299be3047e9337abbd9"
+deprecated = true
 
 [[releases]]
 version = "13.7.0"
@@ -1441,6 +1590,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v13.7.0-darwin-x64.tar.gz"
 etag = "e109ac3d1a92a3cc147b4be24c8d96e8"
+deprecated = true
 
 [[releases]]
 version = "13.8.0"
@@ -1448,6 +1598,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v13.8.0-darwin-x64.tar.gz"
 etag = "d314a378a6622eacdd7bd1cd138fc22f"
+deprecated = true
 
 [[releases]]
 version = "13.9.0"
@@ -1455,6 +1606,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v13.9.0-darwin-x64.tar.gz"
 etag = "25433a0b64a3b71b981656b01b3b0031"
+deprecated = true
 
 [[releases]]
 version = "4.0.0"
@@ -1462,6 +1614,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v4.0.0-darwin-x64.tar.gz"
 etag = "fd64ae33e7757293e6fe1acf660fd8fa"
+deprecated = true
 
 [[releases]]
 version = "4.1.0"
@@ -1469,6 +1622,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v4.1.0-darwin-x64.tar.gz"
 etag = "8ca7483120975d1510ab651d56630941"
+deprecated = true
 
 [[releases]]
 version = "4.1.1"
@@ -1476,6 +1630,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v4.1.1-darwin-x64.tar.gz"
 etag = "8a51c6314c0e43a911cd214bb34ca383"
+deprecated = true
 
 [[releases]]
 version = "4.1.2"
@@ -1483,6 +1638,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v4.1.2-darwin-x64.tar.gz"
 etag = "31a3ee2f51bb2018501048f543ea31c7"
+deprecated = true
 
 [[releases]]
 version = "4.2.0"
@@ -1490,6 +1646,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v4.2.0-darwin-x64.tar.gz"
 etag = "7372a81b1c6b8340c99421d55a0eda71"
+deprecated = true
 
 [[releases]]
 version = "4.2.1"
@@ -1497,6 +1654,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v4.2.1-darwin-x64.tar.gz"
 etag = "1570be16287504d7bd5410c6b047cf0c"
+deprecated = true
 
 [[releases]]
 version = "4.2.2"
@@ -1504,6 +1662,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v4.2.2-darwin-x64.tar.gz"
 etag = "7fa842ce2a6070b09e0dc774d5d9f81c"
+deprecated = true
 
 [[releases]]
 version = "4.2.3"
@@ -1511,6 +1670,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v4.2.3-darwin-x64.tar.gz"
 etag = "ba6c1db01e0fc29c94106d294959f63e"
+deprecated = true
 
 [[releases]]
 version = "4.2.4"
@@ -1518,6 +1678,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v4.2.4-darwin-x64.tar.gz"
 etag = "3a68493cd518e34f9cc913ea351b0d76"
+deprecated = true
 
 [[releases]]
 version = "4.2.5"
@@ -1525,6 +1686,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v4.2.5-darwin-x64.tar.gz"
 etag = "14934b5f60737cd3e2ee01fa5fad16e7"
+deprecated = true
 
 [[releases]]
 version = "4.2.6"
@@ -1532,6 +1694,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v4.2.6-darwin-x64.tar.gz"
 etag = "cab166afc09599e5b6946c2246aff0bf"
+deprecated = true
 
 [[releases]]
 version = "4.3.0"
@@ -1539,6 +1702,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v4.3.0-darwin-x64.tar.gz"
 etag = "e83bc0721bbd693d87e6d4a5739eff16"
+deprecated = true
 
 [[releases]]
 version = "4.3.1"
@@ -1546,6 +1710,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v4.3.1-darwin-x64.tar.gz"
 etag = "9a55c96b5c23e9d317cb7f5db2a8d9fc"
+deprecated = true
 
 [[releases]]
 version = "4.3.2"
@@ -1553,6 +1718,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v4.3.2-darwin-x64.tar.gz"
 etag = "1a621360147e89d351dd7262652d6f84"
+deprecated = true
 
 [[releases]]
 version = "4.4.0"
@@ -1560,6 +1726,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v4.4.0-darwin-x64.tar.gz"
 etag = "5392ac884a1e0acdf0011eb7fe6d10c3"
+deprecated = true
 
 [[releases]]
 version = "4.4.1"
@@ -1567,6 +1734,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v4.4.1-darwin-x64.tar.gz"
 etag = "b9ea0c459baa3ebea63cf59ae60373c0"
+deprecated = true
 
 [[releases]]
 version = "4.4.2"
@@ -1574,6 +1742,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v4.4.2-darwin-x64.tar.gz"
 etag = "b9acc9f1ff3bf474bc33e92b78a06fd3"
+deprecated = true
 
 [[releases]]
 version = "4.4.3"
@@ -1581,6 +1750,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v4.4.3-darwin-x64.tar.gz"
 etag = "32e4ce24aefbdd19e9b2306a8a0d6d3b"
+deprecated = true
 
 [[releases]]
 version = "4.4.4"
@@ -1588,6 +1758,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v4.4.4-darwin-x64.tar.gz"
 etag = "1f4c9fd5f68f7b626eb0d48c562d3250"
+deprecated = true
 
 [[releases]]
 version = "4.4.5"
@@ -1595,6 +1766,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v4.4.5-darwin-x64.tar.gz"
 etag = "553d2f47ade9312a3cb23192df927603"
+deprecated = true
 
 [[releases]]
 version = "4.4.6"
@@ -1602,6 +1774,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v4.4.6-darwin-x64.tar.gz"
 etag = "9db907435908ae769f0188605b4ce385"
+deprecated = true
 
 [[releases]]
 version = "4.4.7"
@@ -1609,6 +1782,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v4.4.7-darwin-x64.tar.gz"
 etag = "b2e25ef68900d66cca801bd149ad5fb4"
+deprecated = true
 
 [[releases]]
 version = "4.5.0"
@@ -1616,6 +1790,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v4.5.0-darwin-x64.tar.gz"
 etag = "5260810ee7c15d615552257a0d38a15d"
+deprecated = true
 
 [[releases]]
 version = "4.6.0"
@@ -1623,6 +1798,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v4.6.0-darwin-x64.tar.gz"
 etag = "89e85f848a731326a993a29cfe225db8"
+deprecated = true
 
 [[releases]]
 version = "4.6.1"
@@ -1630,6 +1806,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v4.6.1-darwin-x64.tar.gz"
 etag = "535ebadbee21b7a725143686bc662bcc"
+deprecated = true
 
 [[releases]]
 version = "4.6.2"
@@ -1637,6 +1814,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v4.6.2-darwin-x64.tar.gz"
 etag = "e20736b12e738b28c40e322bce66c399"
+deprecated = true
 
 [[releases]]
 version = "4.7.0"
@@ -1644,6 +1822,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v4.7.0-darwin-x64.tar.gz"
 etag = "d6f8e02a4a60e320e5cb7c8795a5a96f"
+deprecated = true
 
 [[releases]]
 version = "4.7.1"
@@ -1651,6 +1830,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v4.7.1-darwin-x64.tar.gz"
 etag = "0545346f38c803f039f8f63cbe9d8327"
+deprecated = true
 
 [[releases]]
 version = "4.7.2"
@@ -1658,6 +1838,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v4.7.2-darwin-x64.tar.gz"
 etag = "499521a44c1b2c174c70e0a903287179"
+deprecated = true
 
 [[releases]]
 version = "4.7.3"
@@ -1665,6 +1846,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v4.7.3-darwin-x64.tar.gz"
 etag = "36ec677543797d5d80cafc3e76cf788c"
+deprecated = true
 
 [[releases]]
 version = "4.8.0"
@@ -1672,6 +1854,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v4.8.0-darwin-x64.tar.gz"
 etag = "2160ab2fc4b3d97e30923c8ce73ff6e8"
+deprecated = true
 
 [[releases]]
 version = "4.8.1"
@@ -1679,6 +1862,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v4.8.1-darwin-x64.tar.gz"
 etag = "04aedde750aa1bf01f16f9d0ae5f0c9c"
+deprecated = true
 
 [[releases]]
 version = "4.8.2"
@@ -1686,6 +1870,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v4.8.2-darwin-x64.tar.gz"
 etag = "cd776a58cf3b1ba65f295094ab958087"
+deprecated = true
 
 [[releases]]
 version = "4.8.3"
@@ -1693,6 +1878,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v4.8.3-darwin-x64.tar.gz"
 etag = "d98c95d3735f911a836c6dca72416f00"
+deprecated = true
 
 [[releases]]
 version = "4.8.4"
@@ -1700,6 +1886,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v4.8.4-darwin-x64.tar.gz"
 etag = "591d6e6146d29ae62a1b9f885b72f652"
+deprecated = true
 
 [[releases]]
 version = "4.8.5"
@@ -1707,6 +1894,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v4.8.5-darwin-x64.tar.gz"
 etag = "9a8a87347201348b756baf733d88c3a1"
+deprecated = true
 
 [[releases]]
 version = "4.8.6"
@@ -1714,6 +1902,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v4.8.6-darwin-x64.tar.gz"
 etag = "9a270f3accb5c13ee9a7d238c6b630ec"
+deprecated = true
 
 [[releases]]
 version = "4.8.7"
@@ -1721,6 +1910,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v4.8.7-darwin-x64.tar.gz"
 etag = "3ec65a0ca5617bafad196f22487b4e92"
+deprecated = true
 
 [[releases]]
 version = "4.9.0"
@@ -1728,6 +1918,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v4.9.0-darwin-x64.tar.gz"
 etag = "ab0e0f28d3899e69bc8695ded2f78cda"
+deprecated = true
 
 [[releases]]
 version = "4.9.1"
@@ -1735,6 +1926,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v4.9.1-darwin-x64.tar.gz"
 etag = "45e1a8ac9e641a82acf976516f435842"
+deprecated = true
 
 [[releases]]
 version = "5.0.0"
@@ -1742,6 +1934,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v5.0.0-darwin-x64.tar.gz"
 etag = "b30997758fa2e89cca5434b06cbed440"
+deprecated = true
 
 [[releases]]
 version = "5.1.0"
@@ -1749,6 +1942,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v5.1.0-darwin-x64.tar.gz"
 etag = "d531d26ebec53b1ae00e99af25ae2a18"
+deprecated = true
 
 [[releases]]
 version = "5.1.1"
@@ -1756,6 +1950,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v5.1.1-darwin-x64.tar.gz"
 etag = "c52f962aeb14444c44c12280056f4cc3"
+deprecated = true
 
 [[releases]]
 version = "5.10.0"
@@ -1763,6 +1958,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v5.10.0-darwin-x64.tar.gz"
 etag = "9a8d8014841ffff463810b4d1c665f70"
+deprecated = true
 
 [[releases]]
 version = "5.10.1"
@@ -1770,6 +1966,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v5.10.1-darwin-x64.tar.gz"
 etag = "1dcc9d712dd2df5df88623c72309bf81"
+deprecated = true
 
 [[releases]]
 version = "5.11.0"
@@ -1777,6 +1974,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v5.11.0-darwin-x64.tar.gz"
 etag = "c4d12d0bd233b1674de585e2c50896d2"
+deprecated = true
 
 [[releases]]
 version = "5.11.1"
@@ -1784,6 +1982,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v5.11.1-darwin-x64.tar.gz"
 etag = "7106c928dabe9fde7159bc209e0115cc"
+deprecated = true
 
 [[releases]]
 version = "5.12.0"
@@ -1791,6 +1990,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v5.12.0-darwin-x64.tar.gz"
 etag = "46f848fd273ad87f5b9250d8312b7387"
+deprecated = true
 
 [[releases]]
 version = "5.2.0"
@@ -1798,6 +1998,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v5.2.0-darwin-x64.tar.gz"
 etag = "db1ae727932b933053862880fa6e5611"
+deprecated = true
 
 [[releases]]
 version = "5.3.0"
@@ -1805,6 +2006,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v5.3.0-darwin-x64.tar.gz"
 etag = "cd724378cf7f2c38934ef9361fdd3e9c"
+deprecated = true
 
 [[releases]]
 version = "5.4.0"
@@ -1812,6 +2014,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v5.4.0-darwin-x64.tar.gz"
 etag = "8e797a6e476e071fa09f59275f04cca3"
+deprecated = true
 
 [[releases]]
 version = "5.4.1"
@@ -1819,6 +2022,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v5.4.1-darwin-x64.tar.gz"
 etag = "4a8f9ebb26b5c6858799a32caf90a8ad"
+deprecated = true
 
 [[releases]]
 version = "5.5.0"
@@ -1826,6 +2030,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v5.5.0-darwin-x64.tar.gz"
 etag = "7f5c3e0cfc6866d99633c238139f1957"
+deprecated = true
 
 [[releases]]
 version = "5.6.0"
@@ -1833,6 +2038,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v5.6.0-darwin-x64.tar.gz"
 etag = "6644c279d0c9e178e87fe5c9b4ac3887"
+deprecated = true
 
 [[releases]]
 version = "5.7.0"
@@ -1840,6 +2046,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v5.7.0-darwin-x64.tar.gz"
 etag = "cbfa878e61eeedc29090e96e74783954"
+deprecated = true
 
 [[releases]]
 version = "5.7.1"
@@ -1847,6 +2054,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v5.7.1-darwin-x64.tar.gz"
 etag = "0db5fb88acd4ba2d65ba68459297c595"
+deprecated = true
 
 [[releases]]
 version = "5.8.0"
@@ -1854,6 +2062,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v5.8.0-darwin-x64.tar.gz"
 etag = "c939f95036066bd7f2629a2804c88e39"
+deprecated = true
 
 [[releases]]
 version = "5.9.0"
@@ -1861,6 +2070,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v5.9.0-darwin-x64.tar.gz"
 etag = "387926afe9499ffbe8c8417ed452936a"
+deprecated = true
 
 [[releases]]
 version = "5.9.1"
@@ -1868,6 +2078,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v5.9.1-darwin-x64.tar.gz"
 etag = "25ea4f9c9f6752e9464ebb876f588915"
+deprecated = true
 
 [[releases]]
 version = "6.0.0"
@@ -1875,6 +2086,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v6.0.0-darwin-x64.tar.gz"
 etag = "484a3058a2f75664f0c74cae4198ef99"
+deeprecated = true
 
 [[releases]]
 version = "6.1.0"
@@ -1882,6 +2094,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v6.1.0-darwin-x64.tar.gz"
 etag = "97c09ca684eb6c3e8bf1a7dbbdf4394d"
+deeprecated = true
 
 [[releases]]
 version = "6.10.0"
@@ -1889,6 +2102,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v6.10.0-darwin-x64.tar.gz"
 etag = "cdcd0f8f7bd8ba7665a3a645a32f9140"
+deeprecated = true
 
 [[releases]]
 version = "6.10.1"
@@ -1896,6 +2110,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v6.10.1-darwin-x64.tar.gz"
 etag = "72d70fe5e6fe2c4123c9d313c8f852a1"
+deeprecated = true
 
 [[releases]]
 version = "6.10.2"
@@ -1903,6 +2118,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v6.10.2-darwin-x64.tar.gz"
 etag = "df91310e47f2442b23e146cc02a6f825"
+deeprecated = true
 
 [[releases]]
 version = "6.10.3"
@@ -1910,6 +2126,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v6.10.3-darwin-x64.tar.gz"
 etag = "c4cc8c509739f40960828aa9c87ef84a"
+deeprecated = true
 
 [[releases]]
 version = "6.11.0"
@@ -1917,6 +2134,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v6.11.0-darwin-x64.tar.gz"
 etag = "af9fcf8ac3c2bd248c04f953488bce39"
+deeprecated = true
 
 [[releases]]
 version = "6.11.1"
@@ -1924,6 +2142,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v6.11.1-darwin-x64.tar.gz"
 etag = "5250d8876d1d36fb31f08a149de6975b"
+deeprecated = true
 
 [[releases]]
 version = "6.11.2"
@@ -1931,6 +2150,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v6.11.2-darwin-x64.tar.gz"
 etag = "1dc8b1cada5c2f0c651a5aa964dd8352"
+deeprecated = true
 
 [[releases]]
 version = "6.11.3"
@@ -1938,6 +2158,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v6.11.3-darwin-x64.tar.gz"
 etag = "4ac55d1366cd86c93c25fdcd7cbf8e77"
+deeprecated = true
 
 [[releases]]
 version = "6.11.4"
@@ -1945,6 +2166,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v6.11.4-darwin-x64.tar.gz"
 etag = "5ae64364557a952c05077c47bad7c0e4"
+deeprecated = true
 
 [[releases]]
 version = "6.11.5"
@@ -1952,6 +2174,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v6.11.5-darwin-x64.tar.gz"
 etag = "2f2759d8b7a5d7827ec81ad38559f436"
+deeprecated = true
 
 [[releases]]
 version = "6.12.0"
@@ -1959,6 +2182,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v6.12.0-darwin-x64.tar.gz"
 etag = "1ac3996e047fecba6a795720d910f254"
+deeprecated = true
 
 [[releases]]
 version = "6.12.1"
@@ -1966,6 +2190,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v6.12.1-darwin-x64.tar.gz"
 etag = "01c3d1dcd37be7a64f89739300f75e6f"
+deeprecated = true
 
 [[releases]]
 version = "6.12.2"
@@ -1973,6 +2198,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v6.12.2-darwin-x64.tar.gz"
 etag = "2647861a42f2052d31601b651cfd722b"
+deeprecated = true
 
 [[releases]]
 version = "6.12.3"
@@ -1980,6 +2206,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v6.12.3-darwin-x64.tar.gz"
 etag = "1c5c373a464ed3b6d7de76b13f5dbc8a"
+deeprecated = true
 
 [[releases]]
 version = "6.13.0"
@@ -1987,6 +2214,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v6.13.0-darwin-x64.tar.gz"
 etag = "8739711a000b22819add0f4a5c9ce90f"
+deeprecated = true
 
 [[releases]]
 version = "6.13.1"
@@ -1994,6 +2222,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v6.13.1-darwin-x64.tar.gz"
 etag = "9a17508fc8573c92095fa7dfa9c20015"
+deeprecated = true
 
 [[releases]]
 version = "6.14.0"
@@ -2001,6 +2230,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v6.14.0-darwin-x64.tar.gz"
 etag = "91b1b235028d51939f983d8682d2160a"
+deeprecated = true
 
 [[releases]]
 version = "6.14.1"
@@ -2008,6 +2238,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v6.14.1-darwin-x64.tar.gz"
 etag = "8e28708fd099ccd09aee2c7bd4132b12"
+deeprecated = true
 
 [[releases]]
 version = "6.14.2"
@@ -2015,6 +2246,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v6.14.2-darwin-x64.tar.gz"
 etag = "32708275cb56de819a9e8422b553e0ca"
+deeprecated = true
 
 [[releases]]
 version = "6.14.3"
@@ -2022,6 +2254,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v6.14.3-darwin-x64.tar.gz"
 etag = "7351e1f2ae8bcc326c0898e25b71407f"
+deeprecated = true
 
 [[releases]]
 version = "6.14.4"
@@ -2029,6 +2262,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v6.14.4-darwin-x64.tar.gz"
 etag = "0bb04f12c5041367429175a765e0f948"
+deeprecated = true
 
 [[releases]]
 version = "6.15.0"
@@ -2036,6 +2270,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v6.15.0-darwin-x64.tar.gz"
 etag = "d8db6fa9ab2757996604a0b6e5af31d4"
+deeprecated = true
 
 [[releases]]
 version = "6.15.1"
@@ -2043,6 +2278,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v6.15.1-darwin-x64.tar.gz"
 etag = "f4c860c829f4749ee9196f94239cd2ad"
+deeprecated = true
 
 [[releases]]
 version = "6.16.0"
@@ -2050,6 +2286,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v6.16.0-darwin-x64.tar.gz"
 etag = "ece449be5f8b9a7a5acc6d7c75d2a97e"
+deeprecated = true
 
 [[releases]]
 version = "6.17.0"
@@ -2057,6 +2294,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v6.17.0-darwin-x64.tar.gz"
 etag = "0a3afceae5144b47d497c01d40e57fed"
+deeprecated = true
 
 [[releases]]
 version = "6.17.1"
@@ -2064,6 +2302,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v6.17.1-darwin-x64.tar.gz"
 etag = "55394ba4babf46ec8eeded045c1c8c56"
+deeprecated = true
 
 [[releases]]
 version = "6.2.0"
@@ -2071,6 +2310,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v6.2.0-darwin-x64.tar.gz"
 etag = "26c088c39aa083ce07422ccc7af6d825"
+deeprecated = true
 
 [[releases]]
 version = "6.2.1"
@@ -2078,6 +2318,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v6.2.1-darwin-x64.tar.gz"
 etag = "1bdc85854a27b84c5f9ed0132217b62f"
+deeprecated = true
 
 [[releases]]
 version = "6.2.2"
@@ -2085,6 +2326,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v6.2.2-darwin-x64.tar.gz"
 etag = "6d2ea41938c4ccee53bde9423b1991fc"
+deeprecated = true
 
 [[releases]]
 version = "6.3.0"
@@ -2092,6 +2334,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v6.3.0-darwin-x64.tar.gz"
 etag = "11ad99b9cf675ace0da8ca880369a338"
+deeprecated = true
 
 [[releases]]
 version = "6.3.1"
@@ -2099,6 +2342,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v6.3.1-darwin-x64.tar.gz"
 etag = "7ad393945bf4b90e2e4c8737035a8167"
+deeprecated = true
 
 [[releases]]
 version = "6.4.0"
@@ -2106,6 +2350,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v6.4.0-darwin-x64.tar.gz"
 etag = "a39aea666fef161df8e515189d318bbd"
+deeprecated = true
 
 [[releases]]
 version = "6.5.0"
@@ -2113,6 +2358,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v6.5.0-darwin-x64.tar.gz"
 etag = "44080b266b0312ed1ebe054538be520a"
+deeprecated = true
 
 [[releases]]
 version = "6.6.0"
@@ -2120,6 +2366,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v6.6.0-darwin-x64.tar.gz"
 etag = "aaf636350e51238f9ebba403741df2ea"
+deeprecated = true
 
 [[releases]]
 version = "6.7.0"
@@ -2127,6 +2374,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v6.7.0-darwin-x64.tar.gz"
 etag = "cdb82558b770dd763cb7d2f3c9364287"
+deeprecated = true
 
 [[releases]]
 version = "6.8.0"
@@ -2134,6 +2382,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v6.8.0-darwin-x64.tar.gz"
 etag = "3a0f016ee726588d0e01131b4f779bae"
+deeprecated = true
 
 [[releases]]
 version = "6.8.1"
@@ -2141,6 +2390,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v6.8.1-darwin-x64.tar.gz"
 etag = "f2789ba98dd571b18c652b9cfb3dde0c"
+deeprecated = true
 
 [[releases]]
 version = "6.9.0"
@@ -2148,6 +2398,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v6.9.0-darwin-x64.tar.gz"
 etag = "c1fab809f9d2e6e4593e726f4977327b"
+deeprecated = true
 
 [[releases]]
 version = "6.9.1"
@@ -2155,6 +2406,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v6.9.1-darwin-x64.tar.gz"
 etag = "3e48d814a8bf69b2f42cea40daa3d252"
+deeprecated = true
 
 [[releases]]
 version = "6.9.2"
@@ -2162,6 +2414,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v6.9.2-darwin-x64.tar.gz"
 etag = "8cdf2b717e404a37872bd3d4f0aee6f6"
+deeprecated = true
 
 [[releases]]
 version = "6.9.3"
@@ -2169,6 +2422,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v6.9.3-darwin-x64.tar.gz"
 etag = "681d8aeff603aec817d3aa17ef88e34f"
+deeprecated = true
 
 [[releases]]
 version = "6.9.4"
@@ -2176,6 +2430,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v6.9.4-darwin-x64.tar.gz"
 etag = "cfc3eff29e952b7f5c15ec0bf10ff877"
+deeprecated = true
 
 [[releases]]
 version = "6.9.5"
@@ -2183,6 +2438,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v6.9.5-darwin-x64.tar.gz"
 etag = "1c4e82ed6c23c454bec36533581b48bd"
+deeprecated = true
 
 [[releases]]
 version = "7.0.0"
@@ -2190,6 +2446,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v7.0.0-darwin-x64.tar.gz"
 etag = "e54f28c735c95991f3988c6ac0b8962f"
+deprecated = true
 
 [[releases]]
 version = "7.1.0"
@@ -2197,6 +2454,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v7.1.0-darwin-x64.tar.gz"
 etag = "46423bbe029458f5d495fa89b0e3ac8e"
+deprecated = true
 
 [[releases]]
 version = "7.10.0"
@@ -2204,6 +2462,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v7.10.0-darwin-x64.tar.gz"
 etag = "8d9bca96db9aa8b3c55dda544bb16ea8"
+deprecated = true
 
 [[releases]]
 version = "7.10.1"
@@ -2211,6 +2470,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v7.10.1-darwin-x64.tar.gz"
 etag = "17cc75617a63682f5c6cf51db5d08c23"
+deprecated = true
 
 [[releases]]
 version = "7.2.0"
@@ -2218,6 +2478,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v7.2.0-darwin-x64.tar.gz"
 etag = "9adf88beaad7bb1822ba65ad57e47df4"
+deprecated = true
 
 [[releases]]
 version = "7.2.1"
@@ -2225,6 +2486,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v7.2.1-darwin-x64.tar.gz"
 etag = "65c680fef9e82f03d720df5b4774af88"
+deprecated = true
 
 [[releases]]
 version = "7.3.0"
@@ -2232,6 +2494,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v7.3.0-darwin-x64.tar.gz"
 etag = "6ae4dd30d0470e2ac2ee181e78548d99"
+deprecated = true
 
 [[releases]]
 version = "7.4.0"
@@ -2239,6 +2502,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v7.4.0-darwin-x64.tar.gz"
 etag = "7daf628c7d2e8ac005dad53b35982930"
+deprecated = true
 
 [[releases]]
 version = "7.5.0"
@@ -2246,6 +2510,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v7.5.0-darwin-x64.tar.gz"
 etag = "0d885817d79da925d7da51f2144a1347"
+deprecated = true
 
 [[releases]]
 version = "7.6.0"
@@ -2253,6 +2518,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v7.6.0-darwin-x64.tar.gz"
 etag = "4f907c748933a9e6cce841239d708098"
+deprecated = true
 
 [[releases]]
 version = "7.7.0"
@@ -2260,6 +2526,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v7.7.0-darwin-x64.tar.gz"
 etag = "1040d8bcfca44e0fe80d8d6b76036b4b"
+deprecated = true
 
 [[releases]]
 version = "7.7.1"
@@ -2267,6 +2534,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v7.7.1-darwin-x64.tar.gz"
 etag = "8faf4f7704f956143a7b527f12dc656d"
+deprecated = true
 
 [[releases]]
 version = "7.7.2"
@@ -2274,6 +2542,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v7.7.2-darwin-x64.tar.gz"
 etag = "e8638adc89c219708629e0fdba15cfb4"
+deprecated = true
 
 [[releases]]
 version = "7.7.3"
@@ -2281,6 +2550,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v7.7.3-darwin-x64.tar.gz"
 etag = "0b62b1c7c4e0d7c4c1de458c6cbd2cec"
+deprecated = true
 
 [[releases]]
 version = "7.7.4"
@@ -2288,6 +2558,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v7.7.4-darwin-x64.tar.gz"
 etag = "7149579b4722d2026fc56e3df1dd2f84"
+deprecated = true
 
 [[releases]]
 version = "7.8.0"
@@ -2295,6 +2566,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v7.8.0-darwin-x64.tar.gz"
 etag = "95726bc5cb0207f65f47dffe0d6a320a"
+deprecated = true
 
 [[releases]]
 version = "7.9.0"
@@ -2302,6 +2574,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v7.9.0-darwin-x64.tar.gz"
 etag = "c4b1f398626b760f3e0ceb1c04d178f1"
+deprecated = true
 
 [[releases]]
 version = "8.0.0"
@@ -2309,6 +2582,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v8.0.0-darwin-x64.tar.gz"
 etag = "d1014f2aa625d100861367f7f93be1d6"
+deprecated = true
 
 [[releases]]
 version = "8.1.0"
@@ -2316,6 +2590,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v8.1.0-darwin-x64.tar.gz"
 etag = "e70963faa98945377a197c5f663c3cd8"
+deprecated = true
 
 [[releases]]
 version = "8.1.1"
@@ -2323,6 +2598,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v8.1.1-darwin-x64.tar.gz"
 etag = "f6fefeacd699294845fa4b255f9ad19a"
+deprecated = true
 
 [[releases]]
 version = "8.1.2"
@@ -2330,6 +2606,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v8.1.2-darwin-x64.tar.gz"
 etag = "0e218035c649612f1d1af2a9472b8e1b"
+deprecated = true
 
 [[releases]]
 version = "8.1.3"
@@ -2337,6 +2614,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v8.1.3-darwin-x64.tar.gz"
 etag = "7b66582e833f35e18de5914a35c5254c"
+deprecated = true
 
 [[releases]]
 version = "8.1.4"
@@ -2344,6 +2622,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v8.1.4-darwin-x64.tar.gz"
 etag = "0455fa02b87a530d86bcd2e790d4cf49"
+deprecated = true
 
 [[releases]]
 version = "8.10.0"
@@ -2351,6 +2630,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v8.10.0-darwin-x64.tar.gz"
 etag = "2f8c39ba3d09bbf9af648dce29608e2a"
+deprecated = true
 
 [[releases]]
 version = "8.11.0"
@@ -2358,6 +2638,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v8.11.0-darwin-x64.tar.gz"
 etag = "ed495410c5288975b251739954a65038"
+deprecated = true
 
 [[releases]]
 version = "8.11.1"
@@ -2365,6 +2646,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v8.11.1-darwin-x64.tar.gz"
 etag = "346c568c2f2ab7e0b804f2122a313d86"
+deprecated = true
 
 [[releases]]
 version = "8.11.2"
@@ -2372,6 +2654,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v8.11.2-darwin-x64.tar.gz"
 etag = "a7a4c8391bf5543c64658d7e5776c936"
+deprecated = true
 
 [[releases]]
 version = "8.11.3"
@@ -2379,6 +2662,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v8.11.3-darwin-x64.tar.gz"
 etag = "6211a102bd368c4f83a869c8b9b4b184"
+deprecated = true
 
 [[releases]]
 version = "8.11.4"
@@ -2386,6 +2670,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v8.11.4-darwin-x64.tar.gz"
 etag = "c30ef72d947f05a2a803f7bfd32d511b"
+deprecated = true
 
 [[releases]]
 version = "8.12.0"
@@ -2393,6 +2678,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v8.12.0-darwin-x64.tar.gz"
 etag = "f1489227237471edcbe1f02505b49ce4"
+deprecated = true
 
 [[releases]]
 version = "8.13.0"
@@ -2400,6 +2686,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v8.13.0-darwin-x64.tar.gz"
 etag = "77934dd4a77be45aab6069a2e2cc327c"
+deprecated = true
 
 [[releases]]
 version = "8.14.0"
@@ -2407,6 +2694,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v8.14.0-darwin-x64.tar.gz"
 etag = "cd6cfa062d4f62e7126ad653f8ed42aa"
+deprecated = true
 
 [[releases]]
 version = "8.14.1"
@@ -2414,6 +2702,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v8.14.1-darwin-x64.tar.gz"
 etag = "bf1e2d414c9b8b4ced0fb921536396fd"
+deprecated = true
 
 [[releases]]
 version = "8.15.0"
@@ -2421,6 +2710,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v8.15.0-darwin-x64.tar.gz"
 etag = "2b8d16fd1b804feb2534e5dc9d513e4f"
+deprecated = true
 
 [[releases]]
 version = "8.15.1"
@@ -2428,6 +2718,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v8.15.1-darwin-x64.tar.gz"
 etag = "bf05532c0ef3262c5a40a4af4ee8273a"
+deprecated = true
 
 [[releases]]
 version = "8.16.0"
@@ -2435,6 +2726,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v8.16.0-darwin-x64.tar.gz"
 etag = "765e9fb02e197f83d80f8afddf97438d"
+deprecated = true
 
 [[releases]]
 version = "8.16.1"
@@ -2442,6 +2734,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v8.16.1-darwin-x64.tar.gz"
 etag = "0d5148d32e59dafe82c772ede431290c"
+deprecated = true
 
 [[releases]]
 version = "8.16.2"
@@ -2449,6 +2742,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v8.16.2-darwin-x64.tar.gz"
 etag = "f5e20750bcc2d5b8642c1d0221f5ae71"
+deprecated = true
 
 [[releases]]
 version = "8.17.0"
@@ -2456,6 +2750,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v8.17.0-darwin-x64.tar.gz"
 etag = "794cf5d11fa08aab90c69e879f82a117"
+deprecated = true
 
 [[releases]]
 version = "8.2.0"
@@ -2463,6 +2758,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v8.2.0-darwin-x64.tar.gz"
 etag = "765fff5503c98f32d56c6a6554a3bae1"
+deprecated = true
 
 [[releases]]
 version = "8.2.1"
@@ -2470,6 +2766,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v8.2.1-darwin-x64.tar.gz"
 etag = "8dab18d4f2443c267367571c1cfb1e5f"
+deprecated = true
 
 [[releases]]
 version = "8.3.0"
@@ -2477,6 +2774,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v8.3.0-darwin-x64.tar.gz"
 etag = "6264f0d513f85377f95c96a0c6f6ab63"
+deprecated = true
 
 [[releases]]
 version = "8.4.0"
@@ -2484,6 +2782,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v8.4.0-darwin-x64.tar.gz"
 etag = "1be19a34c6159d40d96d603c14065752"
+deprecated = true
 
 [[releases]]
 version = "8.5.0"
@@ -2491,6 +2790,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v8.5.0-darwin-x64.tar.gz"
 etag = "e57d9b45d1deece35bf55c00b8c5ee92"
+deprecated = true
 
 [[releases]]
 version = "8.6.0"
@@ -2498,6 +2798,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v8.6.0-darwin-x64.tar.gz"
 etag = "628fe6b9683cf36ca808a998f5b6088b"
+deprecated = true
 
 [[releases]]
 version = "8.7.0"
@@ -2505,6 +2806,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v8.7.0-darwin-x64.tar.gz"
 etag = "87aa0c918a883f1a452a738dfb32a1de"
+deprecated = true
 
 [[releases]]
 version = "8.8.0"
@@ -2512,6 +2814,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v8.8.0-darwin-x64.tar.gz"
 etag = "5253bd34ddafc932d97d159492c810b6"
+deprecated = true
 
 [[releases]]
 version = "8.8.1"
@@ -2519,6 +2822,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v8.8.1-darwin-x64.tar.gz"
 etag = "0ebbd83692c7cde9c5de3cb3b188387f"
+deprecated = true
 
 [[releases]]
 version = "8.9.0"
@@ -2526,6 +2830,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v8.9.0-darwin-x64.tar.gz"
 etag = "8fc9f439dd896a56d546ceadb948c5b2"
+deprecated = true
 
 [[releases]]
 version = "8.9.1"
@@ -2533,6 +2838,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v8.9.1-darwin-x64.tar.gz"
 etag = "e7bfe8c32ce33f3a740538b12d4caa4e"
+deprecated = true
 
 [[releases]]
 version = "8.9.2"
@@ -2540,6 +2846,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v8.9.2-darwin-x64.tar.gz"
 etag = "db46704db0fd7d3f2cb40668c6dad63c"
+deprecated = true
 
 [[releases]]
 version = "8.9.3"
@@ -2547,6 +2854,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v8.9.3-darwin-x64.tar.gz"
 etag = "5827bb2a09c8979471030dae5c9f2943"
+deprecated = true
 
 [[releases]]
 version = "8.9.4"
@@ -2554,6 +2862,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v8.9.4-darwin-x64.tar.gz"
 etag = "bdbd711d842acb83238471181aed5687"
+deprecated = true
 
 [[releases]]
 version = "9.0.0"
@@ -2561,6 +2870,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v9.0.0-darwin-x64.tar.gz"
 etag = "71d7195b015f66c96a2d4e2094071730"
+deprecated = true
 
 [[releases]]
 version = "9.1.0"
@@ -2568,6 +2878,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v9.1.0-darwin-x64.tar.gz"
 etag = "81331b134680cf948c94baad99ffc69a"
+deprecated = true
 
 [[releases]]
 version = "9.10.0"
@@ -2575,6 +2886,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v9.10.0-darwin-x64.tar.gz"
 etag = "6983f25374dfcac22057a7f5b200a2e2"
+deprecated = true
 
 [[releases]]
 version = "9.10.1"
@@ -2582,6 +2894,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v9.10.1-darwin-x64.tar.gz"
 etag = "ebee6028fd9640179794d7c464931739"
+deprecated = true
 
 [[releases]]
 version = "9.11.0"
@@ -2589,6 +2902,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v9.11.0-darwin-x64.tar.gz"
 etag = "e1ebd4c9d3b14b4d689b18bc7a480d7c"
+deprecated = true
 
 [[releases]]
 version = "9.11.1"
@@ -2596,6 +2910,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v9.11.1-darwin-x64.tar.gz"
 etag = "6818f9754f3aff86ee0b4c5ee0a339aa"
+deprecated = true
 
 [[releases]]
 version = "9.11.2"
@@ -2603,6 +2918,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v9.11.2-darwin-x64.tar.gz"
 etag = "fc9c918d1ce899d2a48e0062ca4eeae0"
+deprecated = true
 
 [[releases]]
 version = "9.2.0"
@@ -2610,6 +2926,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v9.2.0-darwin-x64.tar.gz"
 etag = "4fe4f9d2d17e7a961bb354bfe05fc449"
+deprecated = true
 
 [[releases]]
 version = "9.2.1"
@@ -2617,6 +2934,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v9.2.1-darwin-x64.tar.gz"
 etag = "24fa4bb6425e89df981b699fd7dfd720"
+deprecated = true
 
 [[releases]]
 version = "9.3.0"
@@ -2624,6 +2942,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v9.3.0-darwin-x64.tar.gz"
 etag = "e78be9b5b17670b2f415c608b685e0a2"
+deprecated = true
 
 [[releases]]
 version = "9.4.0"
@@ -2631,6 +2950,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v9.4.0-darwin-x64.tar.gz"
 etag = "00af859a02eab98f9dd0c6071695e0a0"
+deprecated = true
 
 [[releases]]
 version = "9.5.0"
@@ -2638,6 +2958,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v9.5.0-darwin-x64.tar.gz"
 etag = "1dd0ae5e8fd0ec2f65fc49a7970f2210"
+deprecated = true
 
 [[releases]]
 version = "9.6.0"
@@ -2645,6 +2966,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v9.6.0-darwin-x64.tar.gz"
 etag = "31e5b9ab8daa7da8cc9abb33a176bf13"
+deprecated = true
 
 [[releases]]
 version = "9.6.1"
@@ -2652,6 +2974,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v9.6.1-darwin-x64.tar.gz"
 etag = "495aacaf16d6d26bb00349721ed709c6"
+deprecated = true
 
 [[releases]]
 version = "9.7.0"
@@ -2659,6 +2982,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v9.7.0-darwin-x64.tar.gz"
 etag = "a3f595934fe6f421e4db49538baccf7c"
+deprecated = true
 
 [[releases]]
 version = "9.7.1"
@@ -2666,6 +2990,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v9.7.1-darwin-x64.tar.gz"
 etag = "b56bf1c43373b2aed7341032fad4d76f"
+deprecated = true
 
 [[releases]]
 version = "9.8.0"
@@ -2673,6 +2998,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v9.8.0-darwin-x64.tar.gz"
 etag = "03bad9803dbec17794938f54452cb261"
+deprecated = true
 
 [[releases]]
 version = "9.9.0"
@@ -2680,6 +3006,7 @@ channel = "release"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/darwin-x64/node-v9.9.0-darwin-x64.tar.gz"
 etag = "a4c0ab67127c1dbd875dd5967cf9cde8"
+deprecated = true
 
 [[releases]]
 version = "0.10.0"
@@ -2687,6 +3014,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v0.10.0-linux-x64.tar.gz"
 etag = "a586044d93acb053d28dd6c0ddf95362"
+deprecated = true
 
 [[releases]]
 version = "0.10.1"
@@ -2694,6 +3022,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v0.10.1-linux-x64.tar.gz"
 etag = "f24a1fca96c717abc050f7526ee0101a"
+deprecated = true
 
 [[releases]]
 version = "0.10.10"
@@ -2701,6 +3030,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v0.10.10-linux-x64.tar.gz"
 etag = "561e25c025d922f99d158dac813a4526"
+deprecated = true
 
 [[releases]]
 version = "0.10.11"
@@ -2708,6 +3038,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v0.10.11-linux-x64.tar.gz"
 etag = "037ca782761ac9e704cc34ae9936de75"
+deprecated = true
 
 [[releases]]
 version = "0.10.12"
@@ -2715,6 +3046,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v0.10.12-linux-x64.tar.gz"
 etag = "e396dfb737f2c396af7e5c459aadce08"
+deprecated = true
 
 [[releases]]
 version = "0.10.13"
@@ -2722,6 +3054,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v0.10.13-linux-x64.tar.gz"
 etag = "1819a87f2ac617fb8281ae9efa6abe42"
+deprecated = true
 
 [[releases]]
 version = "0.10.14"
@@ -2729,6 +3062,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v0.10.14-linux-x64.tar.gz"
 etag = "3a5b08dc92cc54ece1645bb47a33331b"
+deprecated = true
 
 [[releases]]
 version = "0.10.15"
@@ -2736,6 +3070,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v0.10.15-linux-x64.tar.gz"
 etag = "1f0b836dd88c20854459a67a46aa0bef"
+deprecated = true
 
 [[releases]]
 version = "0.10.16"
@@ -2743,6 +3078,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v0.10.16-linux-x64.tar.gz"
 etag = "3e7980d5d2fe25323b81bf741d41487f"
+deprecated = true
 
 [[releases]]
 version = "0.10.17"
@@ -2750,6 +3086,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v0.10.17-linux-x64.tar.gz"
 etag = "d26df32e934b88f2db44223c0112ff7b"
+deprecated = true
 
 [[releases]]
 version = "0.10.18"
@@ -2757,6 +3094,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v0.10.18-linux-x64.tar.gz"
 etag = "7e01855f266474bb4063209e391d4c61"
+deprecated = true
 
 [[releases]]
 version = "0.10.19"
@@ -2764,6 +3102,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v0.10.19-linux-x64.tar.gz"
 etag = "8222dc2f5d62f3c0f663852aba0a2b83"
+deprecated = true
 
 [[releases]]
 version = "0.10.2"
@@ -2771,6 +3110,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v0.10.2-linux-x64.tar.gz"
 etag = "3a42e17ab298349e8236f72c4e39e97a"
+deprecated = true
 
 [[releases]]
 version = "0.10.20"
@@ -2778,6 +3118,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v0.10.20-linux-x64.tar.gz"
 etag = "37cfd1484fc621078b487ff7678ee2d4"
+deprecated = true
 
 [[releases]]
 version = "0.10.21"
@@ -2785,6 +3126,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v0.10.21-linux-x64.tar.gz"
 etag = "eab73809ba4ca2840e8dc5f21c873759"
+deprecated = true
 
 [[releases]]
 version = "0.10.22"
@@ -2792,6 +3134,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v0.10.22-linux-x64.tar.gz"
 etag = "942740fdeceaffe091688a04d87caf2c"
+deprecated = true
 
 [[releases]]
 version = "0.10.23"
@@ -2799,6 +3142,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v0.10.23-linux-x64.tar.gz"
 etag = "8d39492c18751aed2d77aae60ed8cd64"
+deprecated = true
 
 [[releases]]
 version = "0.10.24"
@@ -2806,6 +3150,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v0.10.24-linux-x64.tar.gz"
 etag = "e4e23b3ab9ee1d72f98baab8b6aa9aa4"
+deprecated = true
 
 [[releases]]
 version = "0.10.25"
@@ -2813,6 +3158,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v0.10.25-linux-x64.tar.gz"
 etag = "3738f6c24743f53f520d896ecff5e2b5"
+deprecated = true
 
 [[releases]]
 version = "0.10.26"
@@ -2820,6 +3166,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v0.10.26-linux-x64.tar.gz"
 etag = "5d41f981ed3bca6cebd4cfc4444537f1"
+deprecated = true
 
 [[releases]]
 version = "0.10.27"
@@ -2827,6 +3174,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v0.10.27-linux-x64.tar.gz"
 etag = "b2c15782d81eb11c7fed30152217b43d"
+deprecated = true
 
 [[releases]]
 version = "0.10.28"
@@ -2834,6 +3182,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v0.10.28-linux-x64.tar.gz"
 etag = "693afa81416da3632077bb5c24c168fd"
+deprecated = true
 
 [[releases]]
 version = "0.10.29"
@@ -2841,6 +3190,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v0.10.29-linux-x64.tar.gz"
 etag = "ea96bef3eda6ebfef38a76ada5ecd24a"
+deprecated = true
 
 [[releases]]
 version = "0.10.3"
@@ -2848,6 +3198,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v0.10.3-linux-x64.tar.gz"
 etag = "c9746a7e5ff82bd25fd719b8f36203c1"
+deprecated = true
 
 [[releases]]
 version = "0.10.30"
@@ -2855,6 +3206,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v0.10.30-linux-x64.tar.gz"
 etag = "e96aebef3cc0feaca0e9a7b73740ed01"
+deprecated = true
 
 [[releases]]
 version = "0.10.31"
@@ -2862,6 +3214,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v0.10.31-linux-x64.tar.gz"
 etag = "566ce38b1b0b46560ac8edd2f50ab087"
+deprecated = true
 
 [[releases]]
 version = "0.10.32"
@@ -2869,6 +3222,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v0.10.32-linux-x64.tar.gz"
 etag = "126ed002d88315b8d37cec1ee4915454"
+deprecated = true
 
 [[releases]]
 version = "0.10.33"
@@ -2876,6 +3230,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v0.10.33-linux-x64.tar.gz"
 etag = "1efad7c248b453ee6c62a706f6f86dbe"
+deprecated = true
 
 [[releases]]
 version = "0.10.34"
@@ -2883,6 +3238,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v0.10.34-linux-x64.tar.gz"
 etag = "03bc7cfbd7be3a093daaa23b76bafd46"
+deprecated = true
 
 [[releases]]
 version = "0.10.35"
@@ -2890,6 +3246,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v0.10.35-linux-x64.tar.gz"
 etag = "f3b33eed97772ce3a9341bbeb67511d7"
+deprecated = true
 
 [[releases]]
 version = "0.10.36"
@@ -2897,6 +3254,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v0.10.36-linux-x64.tar.gz"
 etag = "d40acc6f134bc2ab207e04011f452564"
+deprecated = true
 
 [[releases]]
 version = "0.10.37"
@@ -2904,6 +3262,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v0.10.37-linux-x64.tar.gz"
 etag = "ad487cb3d4d0fe2c710cffbd25e4f238"
+deprecated = true
 
 [[releases]]
 version = "0.10.38"
@@ -2911,6 +3270,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v0.10.38-linux-x64.tar.gz"
 etag = "8893f1f5ce16c612ba2805432edc0138"
+deprecated = true
 
 [[releases]]
 version = "0.10.39"
@@ -2918,6 +3278,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v0.10.39-linux-x64.tar.gz"
 etag = "3994985df38a5b7d74ad8918282f411c"
+deprecated = true
 
 [[releases]]
 version = "0.10.4"
@@ -2925,6 +3286,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v0.10.4-linux-x64.tar.gz"
 etag = "7352980adaa9031fa406c5ad7b9617d9"
+deprecated = true
 
 [[releases]]
 version = "0.10.40"
@@ -2932,6 +3294,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v0.10.40-linux-x64.tar.gz"
 etag = "efacca570a6ed176a9a3ba18957301b6"
+deprecated = true
 
 [[releases]]
 version = "0.10.41"
@@ -2939,6 +3302,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v0.10.41-linux-x64.tar.gz"
 etag = "ec75dbc572e66d8d4f9ddbf5cde4dacc"
+deprecated = true
 
 [[releases]]
 version = "0.10.42"
@@ -2946,6 +3310,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v0.10.42-linux-x64.tar.gz"
 etag = "86a2b747beb3e051417f809a97891dc2"
+deprecated = true
 
 [[releases]]
 version = "0.10.43"
@@ -2953,6 +3318,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v0.10.43-linux-x64.tar.gz"
 etag = "2ce1317a985b6b359b8dfe22ae4d7c1e"
+deprecated = true
 
 [[releases]]
 version = "0.10.44"
@@ -2960,6 +3326,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v0.10.44-linux-x64.tar.gz"
 etag = "d06b675830ece4b9ebe21eb556ed4a5f"
+deprecated = true
 
 [[releases]]
 version = "0.10.45"
@@ -2967,6 +3334,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v0.10.45-linux-x64.tar.gz"
 etag = "1b8a131d469b357acdf219bd6536242a"
+deprecated = true
 
 [[releases]]
 version = "0.10.46"
@@ -2974,6 +3342,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v0.10.46-linux-x64.tar.gz"
 etag = "cd36e700215520e02eda9f2ae4d3fba5"
+deprecated = true
 
 [[releases]]
 version = "0.10.47"
@@ -2981,6 +3350,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v0.10.47-linux-x64.tar.gz"
 etag = "97cefdf9c1cec1f1737b53cfa64dfed3"
+deprecated = true
 
 [[releases]]
 version = "0.10.48"
@@ -2988,6 +3358,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v0.10.48-linux-x64.tar.gz"
 etag = "4eed9a2de77191a3c499c6550ce37f5d"
+deprecated = true
 
 [[releases]]
 version = "0.10.5"
@@ -2995,6 +3366,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v0.10.5-linux-x64.tar.gz"
 etag = "983f1d6d598038fc0b91da86afaa13a7"
+deprecated = true
 
 [[releases]]
 version = "0.10.6"
@@ -3002,6 +3374,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v0.10.6-linux-x64.tar.gz"
 etag = "ef7cca05167075f217981f58ed697a6d"
+deprecated = true
 
 [[releases]]
 version = "0.10.7"
@@ -3009,6 +3382,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v0.10.7-linux-x64.tar.gz"
 etag = "bd90c722623ba236e8869bb838e7801d"
+deprecated = true
 
 [[releases]]
 version = "0.10.8"
@@ -3016,6 +3390,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v0.10.8-linux-x64.tar.gz"
 etag = "9f723ebc985687fcaaa7636819d562cb"
+deprecated = true
 
 [[releases]]
 version = "0.10.9"
@@ -3023,6 +3398,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v0.10.9-linux-x64.tar.gz"
 etag = "8b723cf963ad01ddce7ab2d272ab34d6"
+deprecated = true
 
 [[releases]]
 version = "0.11.0"
@@ -3030,6 +3406,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v0.11.0-linux-x64.tar.gz"
 etag = "fda656d4a8691fd5103c91c7e22b7860"
+deprecated = true
 
 [[releases]]
 version = "0.11.1"
@@ -3037,6 +3414,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v0.11.1-linux-x64.tar.gz"
 etag = "bc18d6fe82cff1a6c4ed7cae1f90fa7d"
+deprecated = true
 
 [[releases]]
 version = "0.11.10"
@@ -3044,6 +3422,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v0.11.10-linux-x64.tar.gz"
 etag = "f9723689606eebaf0e05775ff038fb42"
+deprecated = true
 
 [[releases]]
 version = "0.11.11"
@@ -3051,6 +3430,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v0.11.11-linux-x64.tar.gz"
 etag = "d78cce4da7582d5ba35be115930522ed"
+deprecated = true
 
 [[releases]]
 version = "0.11.12"
@@ -3058,6 +3438,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v0.11.12-linux-x64.tar.gz"
 etag = "1c3fe24727955b517ff1b4e97a4cc903"
+deprecated = true
 
 [[releases]]
 version = "0.11.13"
@@ -3065,6 +3446,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v0.11.13-linux-x64.tar.gz"
 etag = "d8cc3a9d98629590b7d5d75e06fa2c61"
+deprecated = true
 
 [[releases]]
 version = "0.11.14"
@@ -3072,6 +3454,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v0.11.14-linux-x64.tar.gz"
 etag = "a1651a04eabd1097da63f011e13fea91"
+deprecated = true
 
 [[releases]]
 version = "0.11.15"
@@ -3079,6 +3462,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v0.11.15-linux-x64.tar.gz"
 etag = "eaec6219f25aff616675159c9717dcb9"
+deprecated = true
 
 [[releases]]
 version = "0.11.16"
@@ -3086,6 +3470,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v0.11.16-linux-x64.tar.gz"
 etag = "c667ab595837821f61306c9d2d3dd3b3"
+deprecated = true
 
 [[releases]]
 version = "0.11.2"
@@ -3093,6 +3478,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v0.11.2-linux-x64.tar.gz"
 etag = "2a19da4ca4897e7174960771964dbf8d"
+deprecated = true
 
 [[releases]]
 version = "0.11.3"
@@ -3100,6 +3486,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v0.11.3-linux-x64.tar.gz"
 etag = "a026a8e4ad3a28a04ba977a0fba4e930"
+deprecated = true
 
 [[releases]]
 version = "0.11.4"
@@ -3107,6 +3494,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v0.11.4-linux-x64.tar.gz"
 etag = "24f4412ef76de3cd44e993d79c9ee59a"
+deprecated = true
 
 [[releases]]
 version = "0.11.5"
@@ -3114,6 +3502,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v0.11.5-linux-x64.tar.gz"
 etag = "efd6067e57ea69d5f2474c3e765257a2"
+deprecated = true
 
 [[releases]]
 version = "0.11.6"
@@ -3121,6 +3510,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v0.11.6-linux-x64.tar.gz"
 etag = "3da96a942b381da8b8bba9dc5e09db55"
+deprecated = true
 
 [[releases]]
 version = "0.11.7"
@@ -3128,6 +3518,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v0.11.7-linux-x64.tar.gz"
 etag = "0f03042ca08e6d8e8412de5c5ccd9628"
+deprecated = true
 
 [[releases]]
 version = "0.11.8"
@@ -3135,6 +3526,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v0.11.8-linux-x64.tar.gz"
 etag = "53e3e7e39b686ac1b42de24d4cafbfdb"
+deprecated = true
 
 [[releases]]
 version = "0.11.9"
@@ -3142,6 +3534,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v0.11.9-linux-x64.tar.gz"
 etag = "3159350bcfc311dca5d414d63e0e3a52"
+deprecated = true
 
 [[releases]]
 version = "0.12.0"
@@ -3149,6 +3542,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v0.12.0-linux-x64.tar.gz"
 etag = "ce648d80c0167b0cfe6ec141466822b9"
+deprecated = true
 
 [[releases]]
 version = "0.12.1"
@@ -3156,6 +3550,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v0.12.1-linux-x64.tar.gz"
 etag = "b7546bd69ce043a9470f119a36944afd"
+deprecated = true
 
 [[releases]]
 version = "0.12.10"
@@ -3163,6 +3558,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v0.12.10-linux-x64.tar.gz"
 etag = "a5a377ac54183786875545974136cb47"
+deprecated = true
 
 [[releases]]
 version = "0.12.11"
@@ -3170,6 +3566,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v0.12.11-linux-x64.tar.gz"
 etag = "d886f1e126eae1474819d2b349d7130e"
+deprecated = true
 
 [[releases]]
 version = "0.12.12"
@@ -3177,6 +3574,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v0.12.12-linux-x64.tar.gz"
 etag = "67dabce97df771ba44bcd359bf91cae3"
+deprecated = true
 
 [[releases]]
 version = "0.12.13"
@@ -3184,6 +3582,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v0.12.13-linux-x64.tar.gz"
 etag = "ecb38dfea79405ce56d706a9ea69bcb7"
+deprecated = true
 
 [[releases]]
 version = "0.12.14"
@@ -3191,6 +3590,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v0.12.14-linux-x64.tar.gz"
 etag = "a15d1c3eb4fe38084b3042b686fe3a48"
+deprecated = true
 
 [[releases]]
 version = "0.12.15"
@@ -3198,6 +3598,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v0.12.15-linux-x64.tar.gz"
 etag = "e4c6b41e2e8699b14a17ded28bc8e556"
+deprecated = true
 
 [[releases]]
 version = "0.12.16"
@@ -3205,6 +3606,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v0.12.16-linux-x64.tar.gz"
 etag = "f2169d4ea96ee2e652308151adc2a308"
+deprecated = true
 
 [[releases]]
 version = "0.12.17"
@@ -3212,6 +3614,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v0.12.17-linux-x64.tar.gz"
 etag = "77947c84c8f360e84c2d84b78e6534cb"
+deprecated = true
 
 [[releases]]
 version = "0.12.18"
@@ -3219,6 +3622,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v0.12.18-linux-x64.tar.gz"
 etag = "9ef269e8581f18729001c09cc7bc8e57"
+deprecated = true
 
 [[releases]]
 version = "0.12.2"
@@ -3226,6 +3630,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v0.12.2-linux-x64.tar.gz"
 etag = "2cfce07dc35ee1ffe875e166b541df35"
+deprecated = true
 
 [[releases]]
 version = "0.12.3"
@@ -3233,6 +3638,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v0.12.3-linux-x64.tar.gz"
 etag = "0bc67ed79e01bcc0c673fa5c21f96c1c"
+deprecated = true
 
 [[releases]]
 version = "0.12.4"
@@ -3240,6 +3646,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v0.12.4-linux-x64.tar.gz"
 etag = "a4fd80871c4362d98a52b54ecb45d915"
+deprecated = true
 
 [[releases]]
 version = "0.12.5"
@@ -3247,6 +3654,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v0.12.5-linux-x64.tar.gz"
 etag = "d27a934de4763550e0f9fd180428b0be"
+deprecated = true
 
 [[releases]]
 version = "0.12.6"
@@ -3254,6 +3662,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v0.12.6-linux-x64.tar.gz"
 etag = "28c0750cd4cef5fc9785d9bfbfb5a72d"
+deprecated = true
 
 [[releases]]
 version = "0.12.7"
@@ -3261,6 +3670,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v0.12.7-linux-x64.tar.gz"
 etag = "182175d82395171f299e3a05a2ce70a1"
+deprecated = true
 
 [[releases]]
 version = "0.12.8"
@@ -3268,6 +3678,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v0.12.8-linux-x64.tar.gz"
 etag = "b0a9fe02aa0db91fc27611864da062b9"
+deprecated = true
 
 [[releases]]
 version = "0.12.9"
@@ -3275,6 +3686,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v0.12.9-linux-x64.tar.gz"
 etag = "0282a5cedf4580a6cc515096bd00cc6c"
+deprecated = true
 
 [[releases]]
 version = "0.8.10"
@@ -3282,6 +3694,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v0.8.10-linux-x64.tar.gz"
 etag = "e7746c57b7e5386d61cb76374b8e9f9d"
+deprecated = true
 
 [[releases]]
 version = "0.8.11"
@@ -3289,6 +3702,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v0.8.11-linux-x64.tar.gz"
 etag = "0198ab3e509420162819649c569334dd"
+deprecated = true
 
 [[releases]]
 version = "0.8.12"
@@ -3296,6 +3710,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v0.8.12-linux-x64.tar.gz"
 etag = "05811a262a34cba71aab2b0db099d2c6"
+deprecated = true
 
 [[releases]]
 version = "0.8.13"
@@ -3303,6 +3718,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v0.8.13-linux-x64.tar.gz"
 etag = "2508f05d2ff7d54a01f3a2df2b22ed00"
+deprecated = true
 
 [[releases]]
 version = "0.8.14"
@@ -3310,6 +3726,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v0.8.14-linux-x64.tar.gz"
 etag = "6f6c90b4f2a7b21ed5b9ad305201e6f7"
+deprecated = true
 
 [[releases]]
 version = "0.8.15"
@@ -3317,6 +3734,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v0.8.15-linux-x64.tar.gz"
 etag = "f0194431d70c47c0af6314842712ea8a"
+deprecated = true
 
 [[releases]]
 version = "0.8.16"
@@ -3324,6 +3742,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v0.8.16-linux-x64.tar.gz"
 etag = "b2d1f86053952db562a1be3351cf1a74"
+deprecated = true
 
 [[releases]]
 version = "0.8.17"
@@ -3331,6 +3750,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v0.8.17-linux-x64.tar.gz"
 etag = "5fbaf4c6311529486ed9d4e18c3ca8d3"
+deprecated = true
 
 [[releases]]
 version = "0.8.18"
@@ -3338,6 +3758,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v0.8.18-linux-x64.tar.gz"
 etag = "e60b276e013c5e0cf7fdee5bfc83b04d"
+deprecated = true
 
 [[releases]]
 version = "0.8.19"
@@ -3345,6 +3766,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v0.8.19-linux-x64.tar.gz"
 etag = "65cdb33fa88321188b9584f7bd2e19f0"
+deprecated = true
 
 [[releases]]
 version = "0.8.20"
@@ -3352,6 +3774,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v0.8.20-linux-x64.tar.gz"
 etag = "03a051d0d5c1f108f3303bdfc89988ce"
+deprecated = true
 
 [[releases]]
 version = "0.8.21"
@@ -3359,6 +3782,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v0.8.21-linux-x64.tar.gz"
 etag = "586d562fefa463cbbb362057e3718945"
+deprecated = true
 
 [[releases]]
 version = "0.8.22"
@@ -3366,6 +3790,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v0.8.22-linux-x64.tar.gz"
 etag = "1a45ed485153bdfacfbaee2a918c1c25"
+deprecated = true
 
 [[releases]]
 version = "0.8.23"
@@ -3373,6 +3798,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v0.8.23-linux-x64.tar.gz"
 etag = "df5d9ac473f06b75e684a368d3bfdf49"
+deprecated = true
 
 [[releases]]
 version = "0.8.24"
@@ -3380,6 +3806,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v0.8.24-linux-x64.tar.gz"
 etag = "1716b18cbf1af696a5312a65312d0cc0"
+deprecated = true
 
 [[releases]]
 version = "0.8.25"
@@ -3387,6 +3814,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v0.8.25-linux-x64.tar.gz"
 etag = "eb9585400192622bfa596d816d786385"
+deprecated = true
 
 [[releases]]
 version = "0.8.26"
@@ -3394,6 +3822,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v0.8.26-linux-x64.tar.gz"
 etag = "8b32ce92320f974d836239e477e687a6"
+deprecated = true
 
 [[releases]]
 version = "0.8.27"
@@ -3401,6 +3830,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v0.8.27-linux-x64.tar.gz"
 etag = "35e2b21a7879a2dd97ff198f19519850"
+deprecated = true
 
 [[releases]]
 version = "0.8.28"
@@ -3408,6 +3838,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v0.8.28-linux-x64.tar.gz"
 etag = "623d6b50f550034074b5928e05ab1a45"
+deprecated = true
 
 [[releases]]
 version = "0.8.6"
@@ -3415,6 +3846,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v0.8.6-linux-x64.tar.gz"
 etag = "e8d92d46201ba6e61ee748fc85ad2afa"
+deprecated = true
 
 [[releases]]
 version = "0.8.7"
@@ -3422,6 +3854,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v0.8.7-linux-x64.tar.gz"
 etag = "7a3bb324b1ad1864162a5ff6e9e5e012"
+deprecated = true
 
 [[releases]]
 version = "0.8.8"
@@ -3429,6 +3862,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v0.8.8-linux-x64.tar.gz"
 etag = "8a9272ee8d6dd25a09e641c85dd638e7"
+deprecated = true
 
 [[releases]]
 version = "0.8.9"
@@ -3436,6 +3870,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v0.8.9-linux-x64.tar.gz"
 etag = "1b2bc68dfe8c61a63063afeba89f24f3"
+deprecated = true
 
 [[releases]]
 version = "0.9.1"
@@ -3443,6 +3878,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v0.9.1-linux-x64.tar.gz"
 etag = "c2fbb42f94062ea6bdfefc722700604f"
+deprecated = true
 
 [[releases]]
 version = "0.9.10"
@@ -3450,6 +3886,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v0.9.10-linux-x64.tar.gz"
 etag = "6ee43eee7545622df8ffb44cf187a6f8"
+deprecated = true
 
 [[releases]]
 version = "0.9.11"
@@ -3457,6 +3894,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v0.9.11-linux-x64.tar.gz"
 etag = "df07d58f3e8f49fd7203c8920eed9850"
+deprecated = true
 
 [[releases]]
 version = "0.9.12"
@@ -3464,6 +3902,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v0.9.12-linux-x64.tar.gz"
 etag = "a228712b02ef2e8ae4f08378869104ba"
+deprecated = true
 
 [[releases]]
 version = "0.9.2"
@@ -3471,6 +3910,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v0.9.2-linux-x64.tar.gz"
 etag = "19133fc15485905898907e322699dff2"
+deprecated = true
 
 [[releases]]
 version = "0.9.3"
@@ -3478,6 +3918,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v0.9.3-linux-x64.tar.gz"
 etag = "172eb07f8e840dcbea67a6903411aa3d"
+deprecated = true
 
 [[releases]]
 version = "0.9.4"
@@ -3485,6 +3926,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v0.9.4-linux-x64.tar.gz"
 etag = "4b7289787c68baa3194245410ea15204"
+deprecated = true
 
 [[releases]]
 version = "0.9.5"
@@ -3492,6 +3934,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v0.9.5-linux-x64.tar.gz"
 etag = "8e312d20333be7ca5ac18545ca81d192"
+deprecated = true
 
 [[releases]]
 version = "0.9.6"
@@ -3499,6 +3942,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v0.9.6-linux-x64.tar.gz"
 etag = "a1895c5697faeffa9758e1038a75c333"
+deprecated = true
 
 [[releases]]
 version = "0.9.7"
@@ -3506,6 +3950,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v0.9.7-linux-x64.tar.gz"
 etag = "d5e013ef6ce93d65b307fdaf7f33bebb"
+deprecated = true
 
 [[releases]]
 version = "0.9.8"
@@ -3513,6 +3958,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v0.9.8-linux-x64.tar.gz"
 etag = "37c0909b31bc82e30430cc2bea1b2e45"
+deprecated = true
 
 [[releases]]
 version = "0.9.9"
@@ -3520,6 +3966,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v0.9.9-linux-x64.tar.gz"
 etag = "b22df68fb53151778c2ebeacb7a204b1"
+deprecated = true
 
 [[releases]]
 version = "10.0.0"
@@ -3780,6 +4227,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v11.0.0-linux-x64.tar.gz"
 etag = "6cc8a0761f4266183190c56b72363e98"
+deprecated = true
 
 [[releases]]
 version = "11.1.0"
@@ -3787,6 +4235,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v11.1.0-linux-x64.tar.gz"
 etag = "6f471bc29d30640097c743927c113f02"
+deprecated = true
 
 [[releases]]
 version = "11.10.0"
@@ -3794,6 +4243,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v11.10.0-linux-x64.tar.gz"
 etag = "a1239a07fbd8b9dc460e1e44246e5f29"
+deprecated = true
 
 [[releases]]
 version = "11.10.1"
@@ -3801,6 +4251,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v11.10.1-linux-x64.tar.gz"
 etag = "1e462fb3a741ce0abf3fe2b0d81574e2"
+deprecated = true
 
 [[releases]]
 version = "11.11.0"
@@ -3808,6 +4259,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v11.11.0-linux-x64.tar.gz"
 etag = "009c70629178fb47044333aa4a031c77"
+deprecated = true
 
 [[releases]]
 version = "11.12.0"
@@ -3815,6 +4267,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v11.12.0-linux-x64.tar.gz"
 etag = "da2736962216075cb9ad09e87a7f300e"
+deprecated = true
 
 [[releases]]
 version = "11.13.0"
@@ -3822,6 +4275,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v11.13.0-linux-x64.tar.gz"
 etag = "95d07b2b544793962b0214bd7e33441c"
+deprecated = true
 
 [[releases]]
 version = "11.14.0"
@@ -3829,6 +4283,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v11.14.0-linux-x64.tar.gz"
 etag = "d1ec8cc7a5a102c92d5486cfa9e03b00"
+deprecated = true
 
 [[releases]]
 version = "11.15.0"
@@ -3836,6 +4291,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v11.15.0-linux-x64.tar.gz"
 etag = "ab251fc5b77761064204d00be022fda3"
+deprecated = true
 
 [[releases]]
 version = "11.2.0"
@@ -3843,6 +4299,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v11.2.0-linux-x64.tar.gz"
 etag = "6f1e2002e2af3f660ec0d84dda5e8a6a"
+deprecated = true
 
 [[releases]]
 version = "11.3.0"
@@ -3850,6 +4307,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v11.3.0-linux-x64.tar.gz"
 etag = "dc1a836d178e97e06107e1673d3caf96"
+deprecated = true
 
 [[releases]]
 version = "11.4.0"
@@ -3857,6 +4315,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v11.4.0-linux-x64.tar.gz"
 etag = "2718dafe1f89dd3794a0da222ee365ae"
+deprecated = true
 
 [[releases]]
 version = "11.5.0"
@@ -3864,6 +4323,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v11.5.0-linux-x64.tar.gz"
 etag = "7a32d6b4c300f6a7b78f3a28ed4587e3"
+deprecated = true
 
 [[releases]]
 version = "11.6.0"
@@ -3871,6 +4331,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v11.6.0-linux-x64.tar.gz"
 etag = "9ab9d9540290c15caad5fdf0a32b40fa"
+deprecated = true
 
 [[releases]]
 version = "11.7.0"
@@ -3878,6 +4339,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v11.7.0-linux-x64.tar.gz"
 etag = "35c41456320eb8a712dde2aac4145166"
+deprecated = true
 
 [[releases]]
 version = "11.8.0"
@@ -3885,6 +4347,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v11.8.0-linux-x64.tar.gz"
 etag = "7a6bdb9ffd31bc5ae4c6d866b5462826"
+deprecated = true
 
 [[releases]]
 version = "11.9.0"
@@ -3892,6 +4355,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v11.9.0-linux-x64.tar.gz"
 etag = "8805aeb4cfb798106c6a99ed34536682"
+deprecated = true
 
 [[releases]]
 version = "12.0.0"
@@ -4124,6 +4588,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v13.0.0-linux-x64.tar.gz"
 etag = "80ec0dee495ddf5ac1f52658fc7004d8"
+deprecated = true
 
 [[releases]]
 version = "13.0.1"
@@ -4131,6 +4596,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v13.0.1-linux-x64.tar.gz"
 etag = "248b1a416a4c2af6b888ce1897df12cd"
+deprecated = true
 
 [[releases]]
 version = "13.1.0"
@@ -4138,6 +4604,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v13.1.0-linux-x64.tar.gz"
 etag = "ef41097c9220782c8cac61161fe9eb60"
+deprecated = true
 
 [[releases]]
 version = "13.10.0"
@@ -4145,6 +4612,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v13.10.0-linux-x64.tar.gz"
 etag = "fc533a5c86419ad4976f7e15b5333100"
+deprecated = true
 
 [[releases]]
 version = "13.10.1"
@@ -4152,6 +4620,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v13.10.1-linux-x64.tar.gz"
 etag = "e5e28ed8047859e8be1cee3b7155df4e"
+deprecated = true
 
 [[releases]]
 version = "13.11.0"
@@ -4159,6 +4628,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v13.11.0-linux-x64.tar.gz"
 etag = "7544d1ae0b70dc3ad7b2505c3f10ae3e"
+deprecated = true
 
 [[releases]]
 version = "13.12.0"
@@ -4166,6 +4636,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v13.12.0-linux-x64.tar.gz"
 etag = "50ac82a9792bf99d0b4c24960ecd7da2"
+deprecated = true
 
 [[releases]]
 version = "13.13.0"
@@ -4173,6 +4644,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v13.13.0-linux-x64.tar.gz"
 etag = "cf039ea0c590d5e2e055305ff80020ef"
+deprecated = true
 
 [[releases]]
 version = "13.14.0"
@@ -4180,6 +4652,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v13.14.0-linux-x64.tar.gz"
 etag = "45c315bd788c3505a636fd925445a240"
+deprecated = true
 
 [[releases]]
 version = "13.2.0"
@@ -4187,6 +4660,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v13.2.0-linux-x64.tar.gz"
 etag = "021173844878f2a62d6644da631b384e"
+deprecated = true
 
 [[releases]]
 version = "13.3.0"
@@ -4194,6 +4668,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v13.3.0-linux-x64.tar.gz"
 etag = "0984273970fbe1b55d46a74132c79768"
+deprecated = true
 
 [[releases]]
 version = "13.4.0"
@@ -4201,6 +4676,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v13.4.0-linux-x64.tar.gz"
 etag = "822b0185650e14a8e614caa4db36e1b2"
+deprecated = true
 
 [[releases]]
 version = "13.5.0"
@@ -4208,6 +4684,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v13.5.0-linux-x64.tar.gz"
 etag = "28e68b5893a353dae4525655d3230d19"
+deprecated = true
 
 [[releases]]
 version = "13.6.0"
@@ -4215,6 +4692,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v13.6.0-linux-x64.tar.gz"
 etag = "5758d37594fa78cabb0b4578771a01fd"
+deprecated = true
 
 [[releases]]
 version = "13.7.0"
@@ -4222,6 +4700,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v13.7.0-linux-x64.tar.gz"
 etag = "66087b902dac00d18558ec6b892de497"
+deprecated = true
 
 [[releases]]
 version = "13.8.0"
@@ -4229,6 +4708,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v13.8.0-linux-x64.tar.gz"
 etag = "308ec153bc621d3ef32a3d9731083e44"
+deprecated = true
 
 [[releases]]
 version = "13.9.0"
@@ -4236,6 +4716,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v13.9.0-linux-x64.tar.gz"
 etag = "ba1fcf56182c7afb8863b3bff9469fb2"
+deprecated = true
 
 [[releases]]
 version = "14.0.0"
@@ -4342,6 +4823,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v4.0.0-linux-x64.tar.gz"
 etag = "ad9aa8802fe1ef5b9c96913fd2d08816"
+deprecated = true
 
 [[releases]]
 version = "4.1.0"
@@ -4349,6 +4831,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v4.1.0-linux-x64.tar.gz"
 etag = "5110ec82838293fbbfb67df9cd72b029"
+deprecated = true
 
 [[releases]]
 version = "4.1.1"
@@ -4356,6 +4839,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v4.1.1-linux-x64.tar.gz"
 etag = "e5d370e666f2305787a1fce3661fd89e"
+deprecated = true
 
 [[releases]]
 version = "4.1.2"
@@ -4363,6 +4847,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v4.1.2-linux-x64.tar.gz"
 etag = "0fdf4986da53ea7828ed3aa651a23834"
+deprecated = true
 
 [[releases]]
 version = "4.2.0"
@@ -4370,6 +4855,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v4.2.0-linux-x64.tar.gz"
 etag = "157502f1f71c36a7331e2515b27a4e55"
+deprecated = true
 
 [[releases]]
 version = "4.2.1"
@@ -4377,6 +4863,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v4.2.1-linux-x64.tar.gz"
 etag = "6c89bd44bc01e3806958192913cd2df1"
+deprecated = true
 
 [[releases]]
 version = "4.2.2"
@@ -4384,6 +4871,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v4.2.2-linux-x64.tar.gz"
 etag = "d15578f9497cfc470876035be6817b44"
+deprecated = true
 
 [[releases]]
 version = "4.2.3"
@@ -4391,6 +4879,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v4.2.3-linux-x64.tar.gz"
 etag = "d147b47f159a450ca2ddb21efa15494b"
+deprecated = true
 
 [[releases]]
 version = "4.2.4"
@@ -4398,6 +4887,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v4.2.4-linux-x64.tar.gz"
 etag = "3a5a62cf70ccd3da8f236fe8970c56f3"
+deprecated = true
 
 [[releases]]
 version = "4.2.5"
@@ -4405,6 +4895,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v4.2.5-linux-x64.tar.gz"
 etag = "ac75a1f161cc038d7864e31f836544cc"
+deprecated = true
 
 [[releases]]
 version = "4.2.6"
@@ -4412,6 +4903,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v4.2.6-linux-x64.tar.gz"
 etag = "99e171e31ada52506ea19921c8f12655"
+deprecated = true
 
 [[releases]]
 version = "4.3.0"
@@ -4419,6 +4911,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v4.3.0-linux-x64.tar.gz"
 etag = "971d69c8630e86d310a1e9358dd9d784"
+deprecated = true
 
 [[releases]]
 version = "4.3.1"
@@ -4426,6 +4919,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v4.3.1-linux-x64.tar.gz"
 etag = "4ffab69c4a38b4239b902575cb2e3c8e"
+deprecated = true
 
 [[releases]]
 version = "4.3.2"
@@ -4433,6 +4927,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v4.3.2-linux-x64.tar.gz"
 etag = "c97908f365d55ac8112a85504498d9d4"
+deprecated = true
 
 [[releases]]
 version = "4.4.0"
@@ -4440,6 +4935,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v4.4.0-linux-x64.tar.gz"
 etag = "f53766c3065beaf5df816cbbcabbbaa8"
+deprecated = true
 
 [[releases]]
 version = "4.4.1"
@@ -4447,6 +4943,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v4.4.1-linux-x64.tar.gz"
 etag = "e63bc99f24096ce83a310342bc33185d"
+deprecated = true
 
 [[releases]]
 version = "4.4.2"
@@ -4454,6 +4951,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v4.4.2-linux-x64.tar.gz"
 etag = "b298f15e97e2bf65a51074a6274989c3"
+deprecated = true
 
 [[releases]]
 version = "4.4.3"
@@ -4461,6 +4959,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v4.4.3-linux-x64.tar.gz"
 etag = "57b39b7e98d7267118536db1ce9c61c2"
+deprecated = true
 
 [[releases]]
 version = "4.4.4"
@@ -4468,6 +4967,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v4.4.4-linux-x64.tar.gz"
 etag = "7c120af0281a7e7195e99f61e6d7ba31"
+deprecated = true
 
 [[releases]]
 version = "4.4.5"
@@ -4475,6 +4975,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v4.4.5-linux-x64.tar.gz"
 etag = "f182997bd203528c5a358c8fb1082a5e"
+deprecated = true
 
 [[releases]]
 version = "4.4.6"
@@ -4482,6 +4983,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v4.4.6-linux-x64.tar.gz"
 etag = "4c72d988c91bf95e4dde32cb2adfb4f0"
+deprecated = true
 
 [[releases]]
 version = "4.4.7"
@@ -4489,6 +4991,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v4.4.7-linux-x64.tar.gz"
 etag = "9a5e9d9eeaa9a48f5eacf619fd8c11d8"
+deprecated = true
 
 [[releases]]
 version = "4.5.0"
@@ -4496,6 +4999,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v4.5.0-linux-x64.tar.gz"
 etag = "05a630d65295c2fb854fb76277681233"
+deprecated = true
 
 [[releases]]
 version = "4.6.0"
@@ -4503,6 +5007,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v4.6.0-linux-x64.tar.gz"
 etag = "9ea38915970403e2f39ffb7ddeab037f"
+deprecated = true
 
 [[releases]]
 version = "4.6.1"
@@ -4510,6 +5015,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v4.6.1-linux-x64.tar.gz"
 etag = "2a0f179566efbc1018c0f5b8e79dd37f"
+deprecated = true
 
 [[releases]]
 version = "4.6.2"
@@ -4517,6 +5023,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v4.6.2-linux-x64.tar.gz"
 etag = "076573f2f809e5050098c8969a32327e"
+deprecated = true
 
 [[releases]]
 version = "4.7.0"
@@ -4524,6 +5031,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v4.7.0-linux-x64.tar.gz"
 etag = "7f6f2e8172bb61666b75de84f430703d"
+deprecated = true
 
 [[releases]]
 version = "4.7.1"
@@ -4531,6 +5039,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v4.7.1-linux-x64.tar.gz"
 etag = "e130bd5a3cc159aa32c54d082e7963dd"
+deprecated = true
 
 [[releases]]
 version = "4.7.2"
@@ -4538,6 +5047,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v4.7.2-linux-x64.tar.gz"
 etag = "d438c6cf3d2b63aedae84f7770dba2bf"
+deprecated = true
 
 [[releases]]
 version = "4.7.3"
@@ -4545,6 +5055,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v4.7.3-linux-x64.tar.gz"
 etag = "15508f8fea6b2c3f15a7094b85a400ac"
+deprecated = true
 
 [[releases]]
 version = "4.8.0"
@@ -4552,6 +5063,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v4.8.0-linux-x64.tar.gz"
 etag = "9b0f9368f140ce6095d0338196ef3d0e"
+deprecated = true
 
 [[releases]]
 version = "4.8.1"
@@ -4559,6 +5071,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v4.8.1-linux-x64.tar.gz"
 etag = "c061c265953467cbaecb528936a4350d"
+deprecated = true
 
 [[releases]]
 version = "4.8.2"
@@ -4566,6 +5079,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v4.8.2-linux-x64.tar.gz"
 etag = "3838bed594a34909e3e960db823fe5cb"
+deprecated = true
 
 [[releases]]
 version = "4.8.3"
@@ -4573,6 +5087,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v4.8.3-linux-x64.tar.gz"
 etag = "f7a7392704f74ae1c35ac43e57147518"
+deprecated = true
 
 [[releases]]
 version = "4.8.4"
@@ -4580,6 +5095,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v4.8.4-linux-x64.tar.gz"
 etag = "d4cbf24ebcfe3208eda22474917159ba"
+deprecated = true
 
 [[releases]]
 version = "4.8.5"
@@ -4587,6 +5103,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v4.8.5-linux-x64.tar.gz"
 etag = "96af0054769096d569981f2d22131a96"
+deprecated = true
 
 [[releases]]
 version = "4.8.6"
@@ -4594,6 +5111,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v4.8.6-linux-x64.tar.gz"
 etag = "b0b95ceab3ac27aba8a56033f94658b9"
+deprecated = true
 
 [[releases]]
 version = "4.8.7"
@@ -4601,6 +5119,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v4.8.7-linux-x64.tar.gz"
 etag = "ccf19b560bb65f53132e6bb09b0eb9b1"
+deprecated = true
 
 [[releases]]
 version = "4.9.0"
@@ -4608,6 +5127,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v4.9.0-linux-x64.tar.gz"
 etag = "edb491d2bcc46fac4974319543610d84"
+deprecated = true
 
 [[releases]]
 version = "4.9.1"
@@ -4615,6 +5135,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v4.9.1-linux-x64.tar.gz"
 etag = "55cc20b7f650c25cd57c41dfffdd2bc1"
+deprecated = true
 
 [[releases]]
 version = "5.0.0"
@@ -4622,6 +5143,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v5.0.0-linux-x64.tar.gz"
 etag = "fdc2c555c36c94ebf114638ce335930c"
+deprecated = true
 
 [[releases]]
 version = "5.1.0"
@@ -4629,6 +5151,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v5.1.0-linux-x64.tar.gz"
 etag = "18b6afd5c49e93e5389b951e7e9c14a5"
+deprecated = true
 
 [[releases]]
 version = "5.1.1"
@@ -4636,6 +5159,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v5.1.1-linux-x64.tar.gz"
 etag = "0657d46ced225b0416198d1b3e263c40"
+deprecated = true
 
 [[releases]]
 version = "5.10.0"
@@ -4643,6 +5167,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v5.10.0-linux-x64.tar.gz"
 etag = "16beb606311791a408e612fd3837f17f"
+deprecated = true
 
 [[releases]]
 version = "5.10.1"
@@ -4650,6 +5175,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v5.10.1-linux-x64.tar.gz"
 etag = "4c2f9b58fdd04f44c253eec1fcda6c8b"
+deprecated = true
 
 [[releases]]
 version = "5.11.0"
@@ -4657,6 +5183,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v5.11.0-linux-x64.tar.gz"
 etag = "27b1e305aa8024b9254851a46101b5ac"
+deprecated = true
 
 [[releases]]
 version = "5.11.1"
@@ -4664,6 +5191,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v5.11.1-linux-x64.tar.gz"
 etag = "a410e0dd3f79a9030c5704abb24e4eed"
+deprecated = true
 
 [[releases]]
 version = "5.12.0"
@@ -4671,6 +5199,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v5.12.0-linux-x64.tar.gz"
 etag = "a573a36713bd2d77094794e39562c9a9"
+deprecated = true
 
 [[releases]]
 version = "5.2.0"
@@ -4678,6 +5207,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v5.2.0-linux-x64.tar.gz"
 etag = "547de6e8b2f42e6f6948e3e8e83205b0"
+deprecated = true
 
 [[releases]]
 version = "5.3.0"
@@ -4685,6 +5215,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v5.3.0-linux-x64.tar.gz"
 etag = "fd5b49ff2073e48667e9420cb8e14485"
+deprecated = true
 
 [[releases]]
 version = "5.4.0"
@@ -4692,6 +5223,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v5.4.0-linux-x64.tar.gz"
 etag = "29d19e2095e6610c69d5e3425467a837"
+deprecated = true
 
 [[releases]]
 version = "5.4.1"
@@ -4699,6 +5231,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v5.4.1-linux-x64.tar.gz"
 etag = "59504ee13daa0b00ee5d1ed9b8293c83"
+deprecated = true
 
 [[releases]]
 version = "5.5.0"
@@ -4706,6 +5239,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v5.5.0-linux-x64.tar.gz"
 etag = "da931cbd0d7ddabce6a8e4cd0bfea252"
+deprecated = true
 
 [[releases]]
 version = "5.6.0"
@@ -4713,6 +5247,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v5.6.0-linux-x64.tar.gz"
 etag = "9094bd62a5c44b5794e1c781186211a1"
+deprecated = true
 
 [[releases]]
 version = "5.7.0"
@@ -4720,6 +5255,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v5.7.0-linux-x64.tar.gz"
 etag = "e5703bedcb1796c323b4875476f1aa42"
+deprecated = true
 
 [[releases]]
 version = "5.7.1"
@@ -4727,6 +5263,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v5.7.1-linux-x64.tar.gz"
 etag = "23516f737f0301a02b653f6791bb1b7b"
+deprecated = true
 
 [[releases]]
 version = "5.8.0"
@@ -4734,6 +5271,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v5.8.0-linux-x64.tar.gz"
 etag = "6dc325980c02dbc6d2784f0f4a8ac2c0"
+deprecated = true
 
 [[releases]]
 version = "5.9.0"
@@ -4741,6 +5279,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v5.9.0-linux-x64.tar.gz"
 etag = "728b0fb8dd32ed22e9ececc7494ee017"
+deprecated = true
 
 [[releases]]
 version = "5.9.1"
@@ -4748,6 +5287,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v5.9.1-linux-x64.tar.gz"
 etag = "08c9841f4462cc3db1723b3f769545bb"
+deprecated = true
 
 [[releases]]
 version = "6.0.0"
@@ -4755,6 +5295,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v6.0.0-linux-x64.tar.gz"
 etag = "13b4c32b6547c960fe271dff9e5271ef"
+deeprecated = true
 
 [[releases]]
 version = "6.1.0"
@@ -4762,6 +5303,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v6.1.0-linux-x64.tar.gz"
 etag = "7ae088e219791fc7b8ec2e113de351ed"
+deeprecated = true
 
 [[releases]]
 version = "6.10.0"
@@ -4769,6 +5311,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v6.10.0-linux-x64.tar.gz"
 etag = "f5296665baa81cb1d2963e6e035bab3f"
+deeprecated = true
 
 [[releases]]
 version = "6.10.1"
@@ -4776,6 +5319,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v6.10.1-linux-x64.tar.gz"
 etag = "b84f8dc95e36713130f02eb74a510f66"
+deeprecated = true
 
 [[releases]]
 version = "6.10.2"
@@ -4783,6 +5327,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v6.10.2-linux-x64.tar.gz"
 etag = "422d938406ab4e87b540ff702cc0be0f"
+deeprecated = true
 
 [[releases]]
 version = "6.10.3"
@@ -4790,6 +5335,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v6.10.3-linux-x64.tar.gz"
 etag = "30393301e956e1c1378b6e2b4134960d"
+deeprecated = true
 
 [[releases]]
 version = "6.11.0"
@@ -4797,6 +5343,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v6.11.0-linux-x64.tar.gz"
 etag = "e6ade07945c32f82da184ebbcb5347dc"
+deeprecated = true
 
 [[releases]]
 version = "6.11.1"
@@ -4804,6 +5351,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v6.11.1-linux-x64.tar.gz"
 etag = "07ad56154c716d5d4024485cf541cacd"
+deeprecated = true
 
 [[releases]]
 version = "6.11.2"
@@ -4811,6 +5359,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v6.11.2-linux-x64.tar.gz"
 etag = "a9d11ee59c2f1323dd7779f22319da0b"
+deeprecated = true
 
 [[releases]]
 version = "6.11.3"
@@ -4818,6 +5367,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v6.11.3-linux-x64.tar.gz"
 etag = "27ca55c32e83981d0262c86b3098ab53"
+deeprecated = true
 
 [[releases]]
 version = "6.11.4"
@@ -4825,6 +5375,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v6.11.4-linux-x64.tar.gz"
 etag = "c6ef84d3d69e83cece7fe70b34fb3ead"
+deeprecated = true
 
 [[releases]]
 version = "6.11.5"
@@ -4832,6 +5383,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v6.11.5-linux-x64.tar.gz"
 etag = "feb8cc0de5bdcd852b6ead5ca449c54e"
+deeprecated = true
 
 [[releases]]
 version = "6.12.0"
@@ -4839,6 +5391,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v6.12.0-linux-x64.tar.gz"
 etag = "3bb30780f5a2375186050d3331124eb3"
+deeprecated = true
 
 [[releases]]
 version = "6.12.1"
@@ -4846,6 +5399,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v6.12.1-linux-x64.tar.gz"
 etag = "fe934ea079157537e519ab8abac97821"
+deeprecated = true
 
 [[releases]]
 version = "6.12.2"
@@ -4853,6 +5407,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v6.12.2-linux-x64.tar.gz"
 etag = "d17c3d9d7abc2b6fa87d77b1194f49ed"
+deeprecated = true
 
 [[releases]]
 version = "6.12.3"
@@ -4860,6 +5415,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v6.12.3-linux-x64.tar.gz"
 etag = "3449dadfee5ae4310806b586b22415ea"
+deeprecated = true
 
 [[releases]]
 version = "6.13.0"
@@ -4867,6 +5423,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v6.13.0-linux-x64.tar.gz"
 etag = "bb14c7dc4cdcdda93864b54641a904eb"
+deeprecated = true
 
 [[releases]]
 version = "6.13.1"
@@ -4874,6 +5431,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v6.13.1-linux-x64.tar.gz"
 etag = "8ea19d0947367394b64196d6ef31d279"
+deeprecated = true
 
 [[releases]]
 version = "6.14.0"
@@ -4881,6 +5439,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v6.14.0-linux-x64.tar.gz"
 etag = "55df304d39af6d80b2fea82bc3a0c23c"
+deeprecated = true
 
 [[releases]]
 version = "6.14.1"
@@ -4888,6 +5447,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v6.14.1-linux-x64.tar.gz"
 etag = "2a9d81e30b09a4f097426e469d67d159"
+deeprecated = true
 
 [[releases]]
 version = "6.14.2"
@@ -4895,6 +5455,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v6.14.2-linux-x64.tar.gz"
 etag = "18ccee563e25f5c4561681bfcccd815b"
+deeprecated = true
 
 [[releases]]
 version = "6.14.3"
@@ -4902,6 +5463,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v6.14.3-linux-x64.tar.gz"
 etag = "c03210f252a9a6f1025a32abd817466b"
+deeprecated = true
 
 [[releases]]
 version = "6.14.4"
@@ -4909,6 +5471,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v6.14.4-linux-x64.tar.gz"
 etag = "c81242d62dbad357134ad9e8c938fce6"
+deeprecated = true
 
 [[releases]]
 version = "6.15.0"
@@ -4916,6 +5479,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v6.15.0-linux-x64.tar.gz"
 etag = "bc75fc652bb28aa07d92e99b212dd75e"
+deeprecated = true
 
 [[releases]]
 version = "6.15.1"
@@ -4923,6 +5487,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v6.15.1-linux-x64.tar.gz"
 etag = "8b6b409811ba540653b06a2f87af2b58"
+deeprecated = true
 
 [[releases]]
 version = "6.16.0"
@@ -4930,6 +5495,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v6.16.0-linux-x64.tar.gz"
 etag = "e4b7d1cc7c4156ae36af213795b9a2ab"
+deeprecated = true
 
 [[releases]]
 version = "6.17.0"
@@ -4937,6 +5503,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v6.17.0-linux-x64.tar.gz"
 etag = "24b84466f5f921fa793243f87915800a"
+deeprecated = true
 
 [[releases]]
 version = "6.17.1"
@@ -4944,6 +5511,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v6.17.1-linux-x64.tar.gz"
 etag = "eb59e6ef416d02bfcd1188b4151bddcd"
+deeprecated = true
 
 [[releases]]
 version = "6.2.0"
@@ -4951,6 +5519,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v6.2.0-linux-x64.tar.gz"
 etag = "fdd0261e3c7bafee1cc7fc65984fdf88"
+deeprecated = true
 
 [[releases]]
 version = "6.2.1"
@@ -4958,6 +5527,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v6.2.1-linux-x64.tar.gz"
 etag = "f3d14bdcb186588b49d62e79e7f01485"
+deeprecated = true
 
 [[releases]]
 version = "6.2.2"
@@ -4965,6 +5535,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v6.2.2-linux-x64.tar.gz"
 etag = "a6fec1180281f7ac2d4958e6ce7d3389"
+deeprecated = true
 
 [[releases]]
 version = "6.3.0"
@@ -4972,6 +5543,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v6.3.0-linux-x64.tar.gz"
 etag = "41d14f57079c5935a4f0b470abd9f6b6"
+deeprecated = true
 
 [[releases]]
 version = "6.3.1"
@@ -4979,6 +5551,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v6.3.1-linux-x64.tar.gz"
 etag = "6eef640b0ec7aa824495648de0b98b8a"
+deeprecated = true
 
 [[releases]]
 version = "6.4.0"
@@ -4986,6 +5559,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v6.4.0-linux-x64.tar.gz"
 etag = "5a6a85902804e80805b9e768965de9e7"
+deeprecated = true
 
 [[releases]]
 version = "6.5.0"
@@ -4993,6 +5567,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v6.5.0-linux-x64.tar.gz"
 etag = "9ecd8aa9b9604d0a00c8e49bf4972e8a"
+deeprecated = true
 
 [[releases]]
 version = "6.6.0"
@@ -5000,6 +5575,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v6.6.0-linux-x64.tar.gz"
 etag = "d1d8e73c4bf00bd775134133eb272db1"
+deeprecated = true
 
 [[releases]]
 version = "6.7.0"
@@ -5007,6 +5583,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v6.7.0-linux-x64.tar.gz"
 etag = "408f4cd1cb7ec43c3c160e8fed1976f5"
+deeprecated = true
 
 [[releases]]
 version = "6.8.0"
@@ -5014,6 +5591,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v6.8.0-linux-x64.tar.gz"
 etag = "67095f5a08b9e43af45fb5ae0148518c"
+deeprecated = true
 
 [[releases]]
 version = "6.8.1"
@@ -5021,6 +5599,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v6.8.1-linux-x64.tar.gz"
 etag = "755c549fe29a3a5b96c3389e09944f26"
+deeprecated = true
 
 [[releases]]
 version = "6.9.0"
@@ -5028,6 +5607,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v6.9.0-linux-x64.tar.gz"
 etag = "04b33ad10f00911e1e62d1564b0291a5"
+deeprecated = true
 
 [[releases]]
 version = "6.9.1"
@@ -5035,6 +5615,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v6.9.1-linux-x64.tar.gz"
 etag = "125817abbbe0268f7344a4bdc9f6ca6c"
+deeprecated = true
 
 [[releases]]
 version = "6.9.2"
@@ -5042,6 +5623,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v6.9.2-linux-x64.tar.gz"
 etag = "93bed4cb06d1c70dd6c353eb464fcc14"
+deeprecated = true
 
 [[releases]]
 version = "6.9.3"
@@ -5049,6 +5631,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v6.9.3-linux-x64.tar.gz"
 etag = "77c692175c2be398a5e3a293642e815f"
+deeprecated = true
 
 [[releases]]
 version = "6.9.4"
@@ -5056,6 +5639,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v6.9.4-linux-x64.tar.gz"
 etag = "6ef6a9c5d2157605b8c1c8428d79562e"
+deeprecated = true
 
 [[releases]]
 version = "6.9.5"
@@ -5063,6 +5647,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v6.9.5-linux-x64.tar.gz"
 etag = "07fe033bfc86aaa9f92f34d7b99fd26f"
+deeprecated = true
 
 [[releases]]
 version = "7.0.0"
@@ -5070,6 +5655,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v7.0.0-linux-x64.tar.gz"
 etag = "9e9e91b3acb928e4ba648d8e74a1da58"
+deprecated = true
 
 [[releases]]
 version = "7.1.0"
@@ -5077,6 +5663,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v7.1.0-linux-x64.tar.gz"
 etag = "9ab4aebedf1ffaa3a969e967155fb682"
+deprecated = true
 
 [[releases]]
 version = "7.10.0"
@@ -5084,6 +5671,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v7.10.0-linux-x64.tar.gz"
 etag = "ec8a2ff9c2419699b6b64c23dadd0e97"
+deprecated = true
 
 [[releases]]
 version = "7.10.1"
@@ -5091,6 +5679,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v7.10.1-linux-x64.tar.gz"
 etag = "cfdda50dfcdc0cf220a3a2cde7c47eed"
+deprecated = true
 
 [[releases]]
 version = "7.2.0"
@@ -5098,6 +5687,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v7.2.0-linux-x64.tar.gz"
 etag = "0addb80324fde7895d575217e586de61"
+deprecated = true
 
 [[releases]]
 version = "7.2.1"
@@ -5105,6 +5695,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v7.2.1-linux-x64.tar.gz"
 etag = "c3bed6afc9602cf939db1d5fa17a8ecd"
+deprecated = true
 
 [[releases]]
 version = "7.3.0"
@@ -5112,6 +5703,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v7.3.0-linux-x64.tar.gz"
 etag = "f72707a8488b83b1c960a0f92f0c0407"
+deprecated = true
 
 [[releases]]
 version = "7.4.0"
@@ -5119,6 +5711,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v7.4.0-linux-x64.tar.gz"
 etag = "d39110f7d54c8232681af944e35a643a"
+deprecated = true
 
 [[releases]]
 version = "7.5.0"
@@ -5126,6 +5719,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v7.5.0-linux-x64.tar.gz"
 etag = "6deb5f26b7d6b1abb891ec1c91417a44"
+deprecated = true
 
 [[releases]]
 version = "7.6.0"
@@ -5133,6 +5727,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v7.6.0-linux-x64.tar.gz"
 etag = "ba3e24f7785494fa862bb09df962cb6a"
+deprecated = true
 
 [[releases]]
 version = "7.7.0"
@@ -5140,6 +5735,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v7.7.0-linux-x64.tar.gz"
 etag = "e39a464e4327f52b857a0014e5c834d5"
+deprecated = true
 
 [[releases]]
 version = "7.7.1"
@@ -5147,6 +5743,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v7.7.1-linux-x64.tar.gz"
 etag = "12cf3996237e73af1734abbb04aaa08e"
+deprecated = true
 
 [[releases]]
 version = "7.7.2"
@@ -5154,6 +5751,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v7.7.2-linux-x64.tar.gz"
 etag = "4d721a9751057c93c361b20285319ce9"
+deprecated = true
 
 [[releases]]
 version = "7.7.3"
@@ -5161,6 +5759,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v7.7.3-linux-x64.tar.gz"
 etag = "8fba665863dc1d8f22d5848e2464c66d"
+deprecated = true
 
 [[releases]]
 version = "7.7.4"
@@ -5168,6 +5767,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v7.7.4-linux-x64.tar.gz"
 etag = "e3382e0292c909731d0db2e98662dc35"
+deprecated = true
 
 [[releases]]
 version = "7.8.0"
@@ -5175,6 +5775,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v7.8.0-linux-x64.tar.gz"
 etag = "d338a977caa4908b9634c457eec00607"
+deprecated = true
 
 [[releases]]
 version = "7.9.0"
@@ -5182,6 +5783,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v7.9.0-linux-x64.tar.gz"
 etag = "905dd98406730fa6c7a6f142759797fe"
+deprecated = true
 
 [[releases]]
 version = "8.0.0"
@@ -5189,6 +5791,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v8.0.0-linux-x64.tar.gz"
 etag = "7c4a36c3fa8e26f6293f8b7419b80dce"
+deprecated = true
 
 [[releases]]
 version = "8.1.0"
@@ -5196,6 +5799,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v8.1.0-linux-x64.tar.gz"
 etag = "47785a1a21fee13cf0c257bb4f61c400"
+deprecated = true
 
 [[releases]]
 version = "8.1.1"
@@ -5203,6 +5807,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v8.1.1-linux-x64.tar.gz"
 etag = "66b23604717b0895162e24e372003bc0"
+deprecated = true
 
 [[releases]]
 version = "8.1.2"
@@ -5210,6 +5815,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v8.1.2-linux-x64.tar.gz"
 etag = "ae9ed0103665e67eded93b9ae52a6ec5"
+deprecated = true
 
 [[releases]]
 version = "8.1.3"
@@ -5217,6 +5823,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v8.1.3-linux-x64.tar.gz"
 etag = "ce89b28204e1b6d5c2d1bb08d3f85d95"
+deprecated = true
 
 [[releases]]
 version = "8.1.4"
@@ -5224,6 +5831,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v8.1.4-linux-x64.tar.gz"
 etag = "ae43cf579539b3898432a9c3d49cf9d3"
+deprecated = true
 
 [[releases]]
 version = "8.10.0"
@@ -5231,6 +5839,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v8.10.0-linux-x64.tar.gz"
 etag = "79b3e7736b4f5d0d902684f773748805"
+deprecated = true
 
 [[releases]]
 version = "8.11.0"
@@ -5238,6 +5847,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v8.11.0-linux-x64.tar.gz"
 etag = "3d3264b0503613ad6672858f271392a1"
+deprecated = true
 
 [[releases]]
 version = "8.11.1"
@@ -5245,6 +5855,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v8.11.1-linux-x64.tar.gz"
 etag = "cdfc6c0c8da81d697cb6e93219143817"
+deprecated = true
 
 [[releases]]
 version = "8.11.2"
@@ -5252,6 +5863,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v8.11.2-linux-x64.tar.gz"
 etag = "5d6bbd76cf31838ac22863cee6b35314"
+deprecated = true
 
 [[releases]]
 version = "8.11.3"
@@ -5259,6 +5871,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v8.11.3-linux-x64.tar.gz"
 etag = "55f2efc92e347c22d94f1c75e14cc4a9"
+deprecated = true
 
 [[releases]]
 version = "8.11.4"
@@ -5266,6 +5879,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v8.11.4-linux-x64.tar.gz"
 etag = "5764e757cee7ffa6eda727784ac2dde8"
+deprecated = true
 
 [[releases]]
 version = "8.12.0"
@@ -5273,6 +5887,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v8.12.0-linux-x64.tar.gz"
 etag = "c2dc07f9b840abe01461328caad03179"
+deprecated = true
 
 [[releases]]
 version = "8.13.0"
@@ -5280,6 +5895,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v8.13.0-linux-x64.tar.gz"
 etag = "ec5e096251b6b78f508971d7038a5d14"
+deprecated = true
 
 [[releases]]
 version = "8.14.0"
@@ -5287,6 +5903,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v8.14.0-linux-x64.tar.gz"
 etag = "6e1117831d6dfa9cf73a998f84a70aa2"
+deprecated = true
 
 [[releases]]
 version = "8.14.1"
@@ -5294,6 +5911,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v8.14.1-linux-x64.tar.gz"
 etag = "b62684a89bde079c53fb54dce47ff715"
+deprecated = true
 
 [[releases]]
 version = "8.15.0"
@@ -5301,6 +5919,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v8.15.0-linux-x64.tar.gz"
 etag = "117139b710ca7795feda9e643ce11fe9"
+deprecated = true
 
 [[releases]]
 version = "8.15.1"
@@ -5308,6 +5927,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v8.15.1-linux-x64.tar.gz"
 etag = "4c4497b86c0004401d5a93aa36c7e959"
+deprecated = true
 
 [[releases]]
 version = "8.16.0"
@@ -5315,6 +5935,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v8.16.0-linux-x64.tar.gz"
 etag = "caabf1838fba99b1d228dfa66c38254f"
+deprecated = true
 
 [[releases]]
 version = "8.16.1"
@@ -5322,6 +5943,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v8.16.1-linux-x64.tar.gz"
 etag = "7208de0aad92d58374fa8f3763d6305c"
+deprecated = true
 
 [[releases]]
 version = "8.16.2"
@@ -5329,6 +5951,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v8.16.2-linux-x64.tar.gz"
 etag = "327ec94535ca1a5390fd2eebb970936d"
+deprecated = true
 
 [[releases]]
 version = "8.17.0"
@@ -5336,6 +5959,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v8.17.0-linux-x64.tar.gz"
 etag = "6218e59c4e3632a4b4eae5214aceeb08"
+deprecated = true
 
 [[releases]]
 version = "8.2.0"
@@ -5343,6 +5967,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v8.2.0-linux-x64.tar.gz"
 etag = "68c673f28439316feca4d62e9422fa61"
+deprecated = true
 
 [[releases]]
 version = "8.2.1"
@@ -5350,6 +5975,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v8.2.1-linux-x64.tar.gz"
 etag = "771c0c0d6dee6eb23246acde43d9a322"
+deprecated = true
 
 [[releases]]
 version = "8.3.0"
@@ -5357,6 +5983,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v8.3.0-linux-x64.tar.gz"
 etag = "cd9f3d9d745ff7ed7b70e666120f6f33"
+deprecated = true
 
 [[releases]]
 version = "8.4.0"
@@ -5364,6 +5991,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v8.4.0-linux-x64.tar.gz"
 etag = "47995fbac1f5d13335b9793193852865"
+deprecated = true
 
 [[releases]]
 version = "8.5.0"
@@ -5371,6 +5999,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v8.5.0-linux-x64.tar.gz"
 etag = "fabf00e6bd0340ac7b9eea01c14b5553"
+deprecated = true
 
 [[releases]]
 version = "8.6.0"
@@ -5378,6 +6007,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v8.6.0-linux-x64.tar.gz"
 etag = "43086fd3d13a2f5da84ca0a425603384"
+deprecated = true
 
 [[releases]]
 version = "8.7.0"
@@ -5385,6 +6015,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v8.7.0-linux-x64.tar.gz"
 etag = "cc0009950642acd26d84cdd41fc6a63f"
+deprecated = true
 
 [[releases]]
 version = "8.8.0"
@@ -5392,6 +6023,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v8.8.0-linux-x64.tar.gz"
 etag = "9dbef387aa662bcd886e1d9e12c53391"
+deprecated = true
 
 [[releases]]
 version = "8.8.1"
@@ -5399,6 +6031,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v8.8.1-linux-x64.tar.gz"
 etag = "05a227ed26e6d10673d7b5d43548fa27"
+deprecated = true
 
 [[releases]]
 version = "8.9.0"
@@ -5406,6 +6039,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v8.9.0-linux-x64.tar.gz"
 etag = "344c4ece19f3288e49580aa924efb6b6"
+deprecated = true
 
 [[releases]]
 version = "8.9.1"
@@ -5413,6 +6047,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v8.9.1-linux-x64.tar.gz"
 etag = "4988b63c61a557d435ca84a8fd7b16e5"
+deprecated = true
 
 [[releases]]
 version = "8.9.2"
@@ -5420,6 +6055,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v8.9.2-linux-x64.tar.gz"
 etag = "d44840575fb65f8af588f104b191f1fa"
+deprecated = true
 
 [[releases]]
 version = "8.9.3"
@@ -5427,6 +6063,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v8.9.3-linux-x64.tar.gz"
 etag = "bcb479799cf91d21c5dea9f11be3e8f0"
+deprecated = true
 
 [[releases]]
 version = "8.9.4"
@@ -5434,6 +6071,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v8.9.4-linux-x64.tar.gz"
 etag = "53afee57c2832145d0192075cee3a0f5"
+deprecated = true
 
 [[releases]]
 version = "9.0.0"
@@ -5441,6 +6079,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v9.0.0-linux-x64.tar.gz"
 etag = "daf114d7fc0feedaddee00fffb05795c"
+deprecated = true
 
 [[releases]]
 version = "9.1.0"
@@ -5448,6 +6087,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v9.1.0-linux-x64.tar.gz"
 etag = "f1f3e6c33c998aec8bc976dff9bd288a"
+deprecated = true
 
 [[releases]]
 version = "9.10.0"
@@ -5455,6 +6095,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v9.10.0-linux-x64.tar.gz"
 etag = "72f8c387f69e787eb62a711a6bcb567e"
+deprecated = true
 
 [[releases]]
 version = "9.10.1"
@@ -5462,6 +6103,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v9.10.1-linux-x64.tar.gz"
 etag = "7c8500163ca5129ae369b1c385fe510b"
+deprecated = true
 
 [[releases]]
 version = "9.11.0"
@@ -5469,6 +6111,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v9.11.0-linux-x64.tar.gz"
 etag = "333cebc3ddc900647bdf634dd0b85712"
+deprecated = true
 
 [[releases]]
 version = "9.11.1"
@@ -5476,6 +6119,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v9.11.1-linux-x64.tar.gz"
 etag = "c57e646e046d336ff99973f53f146e3e"
+deprecated = true
 
 [[releases]]
 version = "9.11.2"
@@ -5483,6 +6127,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v9.11.2-linux-x64.tar.gz"
 etag = "2e3946fb496d4fe7da658d4fe84d2f83"
+deprecated = true
 
 [[releases]]
 version = "9.2.0"
@@ -5490,6 +6135,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v9.2.0-linux-x64.tar.gz"
 etag = "d5fbf801c5b1e5fd920b6d06abedf64c"
+deprecated = true
 
 [[releases]]
 version = "9.2.1"
@@ -5497,6 +6143,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v9.2.1-linux-x64.tar.gz"
 etag = "794a1419d7b37ca31f6b26ec523fe9a1"
+deprecated = true
 
 [[releases]]
 version = "9.3.0"
@@ -5504,6 +6151,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v9.3.0-linux-x64.tar.gz"
 etag = "0b7d3a357d309cb9a49d4bf26d9dc279"
+deprecated = true
 
 [[releases]]
 version = "9.4.0"
@@ -5511,6 +6159,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v9.4.0-linux-x64.tar.gz"
 etag = "513c419b06c88bf467ab8c153bd4f311"
+deprecated = true
 
 [[releases]]
 version = "9.5.0"
@@ -5518,6 +6167,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v9.5.0-linux-x64.tar.gz"
 etag = "3d7a719f4839b67751c4293de1cc4a25"
+deprecated = true
 
 [[releases]]
 version = "9.6.0"
@@ -5525,6 +6175,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v9.6.0-linux-x64.tar.gz"
 etag = "6b1fda53508ebf1d18c987d23007daa7"
+deprecated = true
 
 [[releases]]
 version = "9.6.1"
@@ -5532,6 +6183,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v9.6.1-linux-x64.tar.gz"
 etag = "51a778e44a46edf617985416e52a4eba"
+deprecated = true
 
 [[releases]]
 version = "9.7.0"
@@ -5539,6 +6191,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v9.7.0-linux-x64.tar.gz"
 etag = "684489f171a42c96ccc2734b6dbe6035"
+deprecated = true
 
 [[releases]]
 version = "9.7.1"
@@ -5546,6 +6199,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v9.7.1-linux-x64.tar.gz"
 etag = "eafd7894337e4c8325ad318df6e8f5c8"
+deprecated = true
 
 [[releases]]
 version = "9.8.0"
@@ -5553,6 +6207,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v9.8.0-linux-x64.tar.gz"
 etag = "f16b1750184ebed9dc4144a549bbabfc"
+deprecated = true
 
 [[releases]]
 version = "9.9.0"
@@ -5560,6 +6215,7 @@ channel = "release"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/release/linux-x64/node-v9.9.0-linux-x64.tar.gz"
 etag = "b6d0dd7311e34f96057b66280ac29e7a"
+deprecated = true
 
 [[releases]]
 version = "10.10.0"
@@ -5707,6 +6363,7 @@ channel = "staging"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/staging/darwin-x64/node-v11.0.0-darwin-x64.tar.gz"
 etag = "ecc3e19ec147553f53a1d55cd7985054"
+deprecated = true
 
 [[releases]]
 version = "11.1.0"
@@ -5714,6 +6371,7 @@ channel = "staging"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/staging/darwin-x64/node-v11.1.0-darwin-x64.tar.gz"
 etag = "58249d44f40a5a5299fa83f3fd1ee36c"
+deprecated = true
 
 [[releases]]
 version = "11.10.0"
@@ -5721,6 +6379,7 @@ channel = "staging"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/staging/darwin-x64/node-v11.10.0-darwin-x64.tar.gz"
 etag = "bf5fd780114c9e7981146a4909e2ffde"
+deprecated = true
 
 [[releases]]
 version = "11.10.1"
@@ -5728,6 +6387,7 @@ channel = "staging"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/staging/darwin-x64/node-v11.10.1-darwin-x64.tar.gz"
 etag = "80ac0921ffeca782eabae1e543cf5a1d"
+deprecated = true
 
 [[releases]]
 version = "11.11.0"
@@ -5735,6 +6395,7 @@ channel = "staging"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/staging/darwin-x64/node-v11.11.0-darwin-x64.tar.gz"
 etag = "736858f23fb79479af941461817424a4"
+deprecated = true
 
 [[releases]]
 version = "11.12.0"
@@ -5742,6 +6403,7 @@ channel = "staging"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/staging/darwin-x64/node-v11.12.0-darwin-x64.tar.gz"
 etag = "77636576d7ba54c52a984e9891413b16"
+deprecated = true
 
 [[releases]]
 version = "11.13.0"
@@ -5749,6 +6411,7 @@ channel = "staging"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/staging/darwin-x64/node-v11.13.0-darwin-x64.tar.gz"
 etag = "56d811e1709ae0ba4b591ee2489003c3"
+deprecated = true
 
 [[releases]]
 version = "11.14.0"
@@ -5756,6 +6419,7 @@ channel = "staging"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/staging/darwin-x64/node-v11.14.0-darwin-x64.tar.gz"
 etag = "59478d7f4976d5d4248b8e6d24b19270"
+deprecated = true
 
 [[releases]]
 version = "11.15.0"
@@ -5763,6 +6427,7 @@ channel = "staging"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/staging/darwin-x64/node-v11.15.0-darwin-x64.tar.gz"
 etag = "3cc7ff95006b05b6d8cb7b727388c19b"
+deprecated = true
 
 [[releases]]
 version = "11.2.0"
@@ -5770,6 +6435,7 @@ channel = "staging"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/staging/darwin-x64/node-v11.2.0-darwin-x64.tar.gz"
 etag = "3dbded714a5cebaf5ac447c4484e32fe"
+deprecated = true
 
 [[releases]]
 version = "11.3.0"
@@ -5777,6 +6443,7 @@ channel = "staging"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/staging/darwin-x64/node-v11.3.0-darwin-x64.tar.gz"
 etag = "d15a0a760aeb7fcd4c0b6a25529759c0"
+deprecated = true
 
 [[releases]]
 version = "11.4.0"
@@ -5784,6 +6451,7 @@ channel = "staging"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/staging/darwin-x64/node-v11.4.0-darwin-x64.tar.gz"
 etag = "0badf49f8d6aa6d8132916052547865d"
+deprecated = true
 
 [[releases]]
 version = "11.5.0"
@@ -5791,6 +6459,7 @@ channel = "staging"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/staging/darwin-x64/node-v11.5.0-darwin-x64.tar.gz"
 etag = "f1968a180739aec5a35e7778b77d4bea"
+deprecated = true
 
 [[releases]]
 version = "11.6.0"
@@ -5798,6 +6467,7 @@ channel = "staging"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/staging/darwin-x64/node-v11.6.0-darwin-x64.tar.gz"
 etag = "bc6044faecbd1a216d11ab8ac05f3a41"
+deprecated = true
 
 [[releases]]
 version = "11.7.0"
@@ -5805,6 +6475,7 @@ channel = "staging"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/staging/darwin-x64/node-v11.7.0-darwin-x64.tar.gz"
 etag = "ccea4d6956bf66ce6af96cefb93d1f04"
+deprecated = true
 
 [[releases]]
 version = "11.8.0"
@@ -5812,6 +6483,7 @@ channel = "staging"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/staging/darwin-x64/node-v11.8.0-darwin-x64.tar.gz"
 etag = "d7d522f5bf1e1821d258cdb3ebf87e7c"
+deprecated = true
 
 [[releases]]
 version = "11.9.0"
@@ -5819,6 +6491,7 @@ channel = "staging"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/staging/darwin-x64/node-v11.9.0-darwin-x64.tar.gz"
 etag = "1dce07e744fd518a9d3bf1611c0e721a"
+deprecated = true
 
 [[releases]]
 version = "12.0.0"
@@ -6001,6 +6674,7 @@ channel = "staging"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/staging/darwin-x64/node-v13.0.0-darwin-x64.tar.gz"
 etag = "c29a2d0512dad49563013dcb8d2388a3"
+deprecated = true
 
 [[releases]]
 version = "13.0.1"
@@ -6008,6 +6682,7 @@ channel = "staging"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/staging/darwin-x64/node-v13.0.1-darwin-x64.tar.gz"
 etag = "38d4e72e84dd08cfdf155e165df8c30d"
+deprecated = true
 
 [[releases]]
 version = "13.1.0"
@@ -6015,6 +6690,7 @@ channel = "staging"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/staging/darwin-x64/node-v13.1.0-darwin-x64.tar.gz"
 etag = "5b3a440dc47f3a8be6c0bae473dbb529"
+deprecated = true
 
 [[releases]]
 version = "13.10.0"
@@ -6022,6 +6698,7 @@ channel = "staging"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/staging/darwin-x64/node-v13.10.0-darwin-x64.tar.gz"
 etag = "ace887b3fabcb29c467748b45cceac48"
+deprecated = true
 
 [[releases]]
 version = "13.10.1"
@@ -6029,6 +6706,7 @@ channel = "staging"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/staging/darwin-x64/node-v13.10.1-darwin-x64.tar.gz"
 etag = "6d5164fbe7b24fc12c238ee28722582c"
+deprecated = true
 
 [[releases]]
 version = "13.11.0"
@@ -6036,6 +6714,7 @@ channel = "staging"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/staging/darwin-x64/node-v13.11.0-darwin-x64.tar.gz"
 etag = "4370def07b18d225755e4acca647593d-4"
+deprecated = true
 
 [[releases]]
 version = "13.12.0"
@@ -6043,6 +6722,7 @@ channel = "staging"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/staging/darwin-x64/node-v13.12.0-darwin-x64.tar.gz"
 etag = "f014fcc400f09fc071ea300b7b68eed3-4"
+deprecated = true
 
 [[releases]]
 version = "13.2.0"
@@ -6050,6 +6730,7 @@ channel = "staging"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/staging/darwin-x64/node-v13.2.0-darwin-x64.tar.gz"
 etag = "5357dc8b60f0467c37f5408667fc1915"
+deprecated = true
 
 [[releases]]
 version = "13.3.0"
@@ -6057,6 +6738,7 @@ channel = "staging"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/staging/darwin-x64/node-v13.3.0-darwin-x64.tar.gz"
 etag = "a2090fb5b2388c6e3a970d66a982b267"
+deprecated = true
 
 [[releases]]
 version = "13.4.0"
@@ -6064,6 +6746,7 @@ channel = "staging"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/staging/darwin-x64/node-v13.4.0-darwin-x64.tar.gz"
 etag = "253f2ddb1e1507e16793df039d5c9282"
+deprecated = true
 
 [[releases]]
 version = "13.5.0"
@@ -6071,6 +6754,7 @@ channel = "staging"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/staging/darwin-x64/node-v13.5.0-darwin-x64.tar.gz"
 etag = "a3660b576ee4e0afd9d631819748d7eb"
+deprecated = true
 
 [[releases]]
 version = "13.6.0"
@@ -6078,6 +6762,7 @@ channel = "staging"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/staging/darwin-x64/node-v13.6.0-darwin-x64.tar.gz"
 etag = "4b02b6953ad7f299be3047e9337abbd9"
+deprecated = true
 
 [[releases]]
 version = "13.7.0"
@@ -6085,6 +6770,7 @@ channel = "staging"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/staging/darwin-x64/node-v13.7.0-darwin-x64.tar.gz"
 etag = "e109ac3d1a92a3cc147b4be24c8d96e8"
+deprecated = true
 
 [[releases]]
 version = "13.8.0"
@@ -6092,6 +6778,7 @@ channel = "staging"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/staging/darwin-x64/node-v13.8.0-darwin-x64.tar.gz"
 etag = "d314a378a6622eacdd7bd1cd138fc22f"
+deprecated = true
 
 [[releases]]
 version = "13.9.0"
@@ -6099,6 +6786,7 @@ channel = "staging"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/staging/darwin-x64/node-v13.9.0-darwin-x64.tar.gz"
 etag = "25433a0b64a3b71b981656b01b3b0031"
+deprecated = true
 
 [[releases]]
 version = "6.14.4"
@@ -6106,6 +6794,7 @@ channel = "staging"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/staging/darwin-x64/node-v6.14.4-darwin-x64.tar.gz"
 etag = "0bb04f12c5041367429175a765e0f948"
+deeprecated = true
 
 [[releases]]
 version = "6.15.0"
@@ -6113,6 +6802,7 @@ channel = "staging"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/staging/darwin-x64/node-v6.15.0-darwin-x64.tar.gz"
 etag = "d8db6fa9ab2757996604a0b6e5af31d4"
+deeprecated = true
 
 [[releases]]
 version = "6.15.1"
@@ -6120,6 +6810,7 @@ channel = "staging"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/staging/darwin-x64/node-v6.15.1-darwin-x64.tar.gz"
 etag = "f4c860c829f4749ee9196f94239cd2ad"
+deeprecated = true
 
 [[releases]]
 version = "6.16.0"
@@ -6127,6 +6818,7 @@ channel = "staging"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/staging/darwin-x64/node-v6.16.0-darwin-x64.tar.gz"
 etag = "ece449be5f8b9a7a5acc6d7c75d2a97e"
+deeprecated = true
 
 [[releases]]
 version = "6.17.0"
@@ -6134,6 +6826,7 @@ channel = "staging"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/staging/darwin-x64/node-v6.17.0-darwin-x64.tar.gz"
 etag = "0a3afceae5144b47d497c01d40e57fed"
+deeprecated = true
 
 [[releases]]
 version = "6.17.1"
@@ -6141,6 +6834,7 @@ channel = "staging"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/staging/darwin-x64/node-v6.17.1-darwin-x64.tar.gz"
 etag = "55394ba4babf46ec8eeded045c1c8c56"
+deeprecated = true
 
 [[releases]]
 version = "8.11.4"
@@ -6148,6 +6842,7 @@ channel = "staging"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/staging/darwin-x64/node-v8.11.4-darwin-x64.tar.gz"
 etag = "c30ef72d947f05a2a803f7bfd32d511b"
+deprecated = true
 
 [[releases]]
 version = "8.12.0"
@@ -6155,6 +6850,7 @@ channel = "staging"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/staging/darwin-x64/node-v8.12.0-darwin-x64.tar.gz"
 etag = "f1489227237471edcbe1f02505b49ce4"
+deprecated = true
 
 [[releases]]
 version = "8.13.0"
@@ -6162,6 +6858,7 @@ channel = "staging"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/staging/darwin-x64/node-v8.13.0-darwin-x64.tar.gz"
 etag = "77934dd4a77be45aab6069a2e2cc327c"
+deprecated = true
 
 [[releases]]
 version = "8.14.0"
@@ -6169,6 +6866,7 @@ channel = "staging"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/staging/darwin-x64/node-v8.14.0-darwin-x64.tar.gz"
 etag = "cd6cfa062d4f62e7126ad653f8ed42aa"
+deprecated = true
 
 [[releases]]
 version = "8.14.1"
@@ -6176,6 +6874,7 @@ channel = "staging"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/staging/darwin-x64/node-v8.14.1-darwin-x64.tar.gz"
 etag = "bf1e2d414c9b8b4ced0fb921536396fd"
+deprecated = true
 
 [[releases]]
 version = "8.15.0"
@@ -6183,6 +6882,7 @@ channel = "staging"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/staging/darwin-x64/node-v8.15.0-darwin-x64.tar.gz"
 etag = "2b8d16fd1b804feb2534e5dc9d513e4f"
+deprecated = true
 
 [[releases]]
 version = "8.15.1"
@@ -6190,6 +6890,7 @@ channel = "staging"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/staging/darwin-x64/node-v8.15.1-darwin-x64.tar.gz"
 etag = "bf05532c0ef3262c5a40a4af4ee8273a"
+deprecated = true
 
 [[releases]]
 version = "8.16.0"
@@ -6197,6 +6898,7 @@ channel = "staging"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/staging/darwin-x64/node-v8.16.0-darwin-x64.tar.gz"
 etag = "765e9fb02e197f83d80f8afddf97438d"
+deprecated = true
 
 [[releases]]
 version = "8.16.1"
@@ -6204,6 +6906,7 @@ channel = "staging"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/staging/darwin-x64/node-v8.16.1-darwin-x64.tar.gz"
 etag = "0d5148d32e59dafe82c772ede431290c"
+deprecated = true
 
 [[releases]]
 version = "8.16.2"
@@ -6211,6 +6914,7 @@ channel = "staging"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/staging/darwin-x64/node-v8.16.2-darwin-x64.tar.gz"
 etag = "f5e20750bcc2d5b8642c1d0221f5ae71"
+deprecated = true
 
 [[releases]]
 version = "8.17.0"
@@ -6218,6 +6922,7 @@ channel = "staging"
 arch = "darwin-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/staging/darwin-x64/node-v8.17.0-darwin-x64.tar.gz"
 etag = "794cf5d11fa08aab90c69e879f82a117"
+deprecated = true
 
 [[releases]]
 version = "10.10.0"
@@ -6400,6 +7105,7 @@ channel = "staging"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/staging/linux-x64/node-v11.0.0-linux-x64.tar.gz"
 etag = "6cc8a0761f4266183190c56b72363e98"
+deprecated = true
 
 [[releases]]
 version = "11.1.0"
@@ -6407,6 +7113,7 @@ channel = "staging"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/staging/linux-x64/node-v11.1.0-linux-x64.tar.gz"
 etag = "6f471bc29d30640097c743927c113f02"
+deprecated = true
 
 [[releases]]
 version = "11.10.0"
@@ -6414,6 +7121,7 @@ channel = "staging"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/staging/linux-x64/node-v11.10.0-linux-x64.tar.gz"
 etag = "a1239a07fbd8b9dc460e1e44246e5f29"
+deprecated = true
 
 [[releases]]
 version = "11.10.1"
@@ -6421,6 +7129,7 @@ channel = "staging"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/staging/linux-x64/node-v11.10.1-linux-x64.tar.gz"
 etag = "1e462fb3a741ce0abf3fe2b0d81574e2"
+deprecated = true
 
 [[releases]]
 version = "11.11.0"
@@ -6428,6 +7137,7 @@ channel = "staging"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/staging/linux-x64/node-v11.11.0-linux-x64.tar.gz"
 etag = "009c70629178fb47044333aa4a031c77"
+deprecated = true
 
 [[releases]]
 version = "11.12.0"
@@ -6435,6 +7145,7 @@ channel = "staging"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/staging/linux-x64/node-v11.12.0-linux-x64.tar.gz"
 etag = "da2736962216075cb9ad09e87a7f300e"
+deprecated = true
 
 [[releases]]
 version = "11.13.0"
@@ -6442,6 +7153,7 @@ channel = "staging"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/staging/linux-x64/node-v11.13.0-linux-x64.tar.gz"
 etag = "95d07b2b544793962b0214bd7e33441c"
+deprecated = true
 
 [[releases]]
 version = "11.14.0"
@@ -6449,6 +7161,7 @@ channel = "staging"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/staging/linux-x64/node-v11.14.0-linux-x64.tar.gz"
 etag = "d1ec8cc7a5a102c92d5486cfa9e03b00"
+deprecated = true
 
 [[releases]]
 version = "11.15.0"
@@ -6456,6 +7169,7 @@ channel = "staging"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/staging/linux-x64/node-v11.15.0-linux-x64.tar.gz"
 etag = "ab251fc5b77761064204d00be022fda3"
+deprecated = true
 
 [[releases]]
 version = "11.2.0"
@@ -6463,6 +7177,7 @@ channel = "staging"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/staging/linux-x64/node-v11.2.0-linux-x64.tar.gz"
 etag = "6f1e2002e2af3f660ec0d84dda5e8a6a"
+deprecated = true
 
 [[releases]]
 version = "11.3.0"
@@ -6470,6 +7185,7 @@ channel = "staging"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/staging/linux-x64/node-v11.3.0-linux-x64.tar.gz"
 etag = "dc1a836d178e97e06107e1673d3caf96"
+deprecated = true
 
 [[releases]]
 version = "11.4.0"
@@ -6477,6 +7193,7 @@ channel = "staging"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/staging/linux-x64/node-v11.4.0-linux-x64.tar.gz"
 etag = "2718dafe1f89dd3794a0da222ee365ae"
+deprecated = true
 
 [[releases]]
 version = "11.5.0"
@@ -6484,6 +7201,7 @@ channel = "staging"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/staging/linux-x64/node-v11.5.0-linux-x64.tar.gz"
 etag = "7a32d6b4c300f6a7b78f3a28ed4587e3"
+deprecated = true
 
 [[releases]]
 version = "11.6.0"
@@ -6491,6 +7209,7 @@ channel = "staging"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/staging/linux-x64/node-v11.6.0-linux-x64.tar.gz"
 etag = "9ab9d9540290c15caad5fdf0a32b40fa"
+deprecated = true
 
 [[releases]]
 version = "11.7.0"
@@ -6498,6 +7217,7 @@ channel = "staging"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/staging/linux-x64/node-v11.7.0-linux-x64.tar.gz"
 etag = "35c41456320eb8a712dde2aac4145166"
+deprecated = true
 
 [[releases]]
 version = "11.8.0"
@@ -6505,6 +7225,7 @@ channel = "staging"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/staging/linux-x64/node-v11.8.0-linux-x64.tar.gz"
 etag = "7a6bdb9ffd31bc5ae4c6d866b5462826"
+deprecated = true
 
 [[releases]]
 version = "11.9.0"
@@ -6512,6 +7233,7 @@ channel = "staging"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/staging/linux-x64/node-v11.9.0-linux-x64.tar.gz"
 etag = "8805aeb4cfb798106c6a99ed34536682"
+deprecated = true
 
 [[releases]]
 version = "12.0.0"
@@ -6743,6 +7465,7 @@ channel = "staging"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/staging/linux-x64/node-v13.0.0-linux-x64.tar.gz"
 etag = "80ec0dee495ddf5ac1f52658fc7004d8"
+deprecated = true
 
 [[releases]]
 version = "13.0.1"
@@ -6750,6 +7473,7 @@ channel = "staging"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/staging/linux-x64/node-v13.0.1-linux-x64.tar.gz"
 etag = "248b1a416a4c2af6b888ce1897df12cd"
+deprecated = true
 
 [[releases]]
 version = "13.1.0"
@@ -6757,6 +7481,7 @@ channel = "staging"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/staging/linux-x64/node-v13.1.0-linux-x64.tar.gz"
 etag = "ef41097c9220782c8cac61161fe9eb60"
+deprecated = true
 
 [[releases]]
 version = "13.10.0"
@@ -6764,6 +7489,7 @@ channel = "staging"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/staging/linux-x64/node-v13.10.0-linux-x64.tar.gz"
 etag = "fc533a5c86419ad4976f7e15b5333100"
+deprecated = true
 
 [[releases]]
 version = "13.10.1"
@@ -6771,6 +7497,7 @@ channel = "staging"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/staging/linux-x64/node-v13.10.1-linux-x64.tar.gz"
 etag = "e5e28ed8047859e8be1cee3b7155df4e"
+deprecated = true
 
 [[releases]]
 version = "13.11.0"
@@ -6778,6 +7505,7 @@ channel = "staging"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/staging/linux-x64/node-v13.11.0-linux-x64.tar.gz"
 etag = "2af22200c0261f417cf32a3279da2621-4"
+deprecated = true
 
 [[releases]]
 version = "13.12.0"
@@ -6785,6 +7513,7 @@ channel = "staging"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/staging/linux-x64/node-v13.12.0-linux-x64.tar.gz"
 etag = "8d22abc5a44d5645c0a9eab6177df570-4"
+deprecated = true
 
 [[releases]]
 version = "13.13.0"
@@ -6792,6 +7521,7 @@ channel = "staging"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/staging/linux-x64/node-v13.13.0-linux-x64.tar.gz"
 etag = "b9a24b0caa34a7a12ebb3e31b6830769-4"
+deprecated = true
 
 [[releases]]
 version = "13.14.0"
@@ -6799,6 +7529,7 @@ channel = "staging"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/staging/linux-x64/node-v13.14.0-linux-x64.tar.gz"
 etag = "70ecff1b96a40b3330cc0b98ddf529b5-4"
+deprecated = true
 
 [[releases]]
 version = "13.2.0"
@@ -6806,6 +7537,7 @@ channel = "staging"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/staging/linux-x64/node-v13.2.0-linux-x64.tar.gz"
 etag = "021173844878f2a62d6644da631b384e"
+deprecated = true
 
 [[releases]]
 version = "13.3.0"
@@ -6813,6 +7545,7 @@ channel = "staging"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/staging/linux-x64/node-v13.3.0-linux-x64.tar.gz"
 etag = "0984273970fbe1b55d46a74132c79768"
+deprecated = true
 
 [[releases]]
 version = "13.4.0"
@@ -6820,6 +7553,7 @@ channel = "staging"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/staging/linux-x64/node-v13.4.0-linux-x64.tar.gz"
 etag = "822b0185650e14a8e614caa4db36e1b2"
+deprecated = true
 
 [[releases]]
 version = "13.5.0"
@@ -6827,6 +7561,7 @@ channel = "staging"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/staging/linux-x64/node-v13.5.0-linux-x64.tar.gz"
 etag = "28e68b5893a353dae4525655d3230d19"
+deprecated = true
 
 [[releases]]
 version = "13.6.0"
@@ -6834,6 +7569,7 @@ channel = "staging"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/staging/linux-x64/node-v13.6.0-linux-x64.tar.gz"
 etag = "5758d37594fa78cabb0b4578771a01fd"
+deprecated = true
 
 [[releases]]
 version = "13.7.0"
@@ -6841,6 +7577,7 @@ channel = "staging"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/staging/linux-x64/node-v13.7.0-linux-x64.tar.gz"
 etag = "66087b902dac00d18558ec6b892de497"
+deprecated = true
 
 [[releases]]
 version = "13.8.0"
@@ -6848,6 +7585,7 @@ channel = "staging"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/staging/linux-x64/node-v13.8.0-linux-x64.tar.gz"
 etag = "308ec153bc621d3ef32a3d9731083e44"
+deprecated = true
 
 [[releases]]
 version = "13.9.0"
@@ -6855,6 +7593,7 @@ channel = "staging"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/staging/linux-x64/node-v13.9.0-linux-x64.tar.gz"
 etag = "ba1fcf56182c7afb8863b3bff9469fb2"
+deprecated = true
 
 [[releases]]
 version = "14.0.0"
@@ -6960,6 +7699,7 @@ channel = "staging"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/staging/linux-x64/node-v6.14.4-linux-x64.tar.gz"
 etag = "c81242d62dbad357134ad9e8c938fce6"
+deeprecated = true
 
 [[releases]]
 version = "6.15.0"
@@ -6967,6 +7707,7 @@ channel = "staging"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/staging/linux-x64/node-v6.15.0-linux-x64.tar.gz"
 etag = "bc75fc652bb28aa07d92e99b212dd75e"
+deeprecated = true
 
 [[releases]]
 version = "6.15.1"
@@ -6974,6 +7715,7 @@ channel = "staging"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/staging/linux-x64/node-v6.15.1-linux-x64.tar.gz"
 etag = "8b6b409811ba540653b06a2f87af2b58"
+deeprecated = true
 
 [[releases]]
 version = "6.16.0"
@@ -6981,6 +7723,7 @@ channel = "staging"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/staging/linux-x64/node-v6.16.0-linux-x64.tar.gz"
 etag = "e4b7d1cc7c4156ae36af213795b9a2ab"
+deeprecated = true
 
 [[releases]]
 version = "6.17.0"
@@ -6988,6 +7731,7 @@ channel = "staging"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/staging/linux-x64/node-v6.17.0-linux-x64.tar.gz"
 etag = "24b84466f5f921fa793243f87915800a"
+deeprecated = true
 
 [[releases]]
 version = "6.17.1"
@@ -6995,6 +7739,7 @@ channel = "staging"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/staging/linux-x64/node-v6.17.1-linux-x64.tar.gz"
 etag = "eb59e6ef416d02bfcd1188b4151bddcd"
+deeprecated = true
 
 [[releases]]
 version = "8.11.4"
@@ -7002,6 +7747,7 @@ channel = "staging"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/staging/linux-x64/node-v8.11.4-linux-x64.tar.gz"
 etag = "5764e757cee7ffa6eda727784ac2dde8"
+deprecated = true
 
 [[releases]]
 version = "8.12.0"
@@ -7009,6 +7755,7 @@ channel = "staging"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/staging/linux-x64/node-v8.12.0-linux-x64.tar.gz"
 etag = "c2dc07f9b840abe01461328caad03179"
+deprecated = true
 
 [[releases]]
 version = "8.13.0"
@@ -7016,3 +7763,4 @@ channel = "staging"
 arch = "linux-x64"
 url = "https://s3.amazonaws.com/heroku-nodebin/node/staging/linux-x64/node-v8.13.0-linux-x64.tar.gz"
 etag = "ec5e096251b6b78f508971d7038a5d14"
+deprecated = true

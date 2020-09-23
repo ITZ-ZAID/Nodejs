@@ -703,6 +703,19 @@ warn_vulnerable_node() {
   fi
 }
 
+warn_deprecated_node() {
+  local node_version is_deprecated
+
+  node_version="$1"
+  is_deprecated="$(deprecated $BP_DIR/inventory/node.toml $node_version)"
+
+  if [[ "$is_deprecated" == "true" ]]; then
+    warn "This version of Node is deprecated. Update to a supported Node version for the latest bug fixes and security patches." "https://devcenter.heroku.com/articles/nodejs-support#supported-runtimes"
+    mcount 'warnings.node.deprecated'
+  fi
+}
+
+
 warn_prebuilt_modules() {
   local build_dir=${1:-}
   if [ -e "$build_dir/node_modules" ]; then
