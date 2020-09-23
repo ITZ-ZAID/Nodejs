@@ -101,9 +101,6 @@ install_nodejs() {
     echo "Downloading and installing node $number..."
   fi
 
-  echo $number
-  echo $url
-
   code=$(curl "$url" -L --silent --fail --retry 5 --retry-max-time 15 -o /tmp/node.tar.gz --write-out "%{http_code}")
 
   if [ "$code" != "200" ]; then
@@ -113,6 +110,8 @@ install_nodejs() {
   rm -rf "${dir:?}"/*
   mv /tmp/node-v"$number"-"$os"-"$cpu"/* "$dir"
   chmod +x "$dir"/bin/*
+
+  warn_vulnerable_node "$number"
 }
 
 install_npm() {
