@@ -55,29 +55,7 @@ source "$BP_DIR/lib/builddata.sh"
 # shellcheck source=lib/yarn-2.sh
 source "$BP_DIR/lib/yarn-2.sh"
 
-## Install Rust
-curl https://sh.rustup.rs -sSf | bash -s -- -y
-source $HOME/.cargo/env
-
-## Copy repo
-RESOLVE_VERSION_BIN="$BUILD_DIR/.heroku/resolve-version/bin"
-mkdir -p "$RESOLVE_VERSION_BIN"
-cd "$BUILD_DIR/.heroku/resolve-version"
-git clone https://github.com/hone/resolve-version.rs.git
-cd resolve-version.rs
-git checkout add-tests
-
-## Build binaries
-cargo build --release --bin resolve --bin security
-
-# ## Move binaries to a bin folder
-mv "target/release/resolve" "$RESOLVE_VERSION_BIN"
-mv "target/release/security" "$RESOLVE_VERSION_BIN"
-
-# ## Go to build dir
-cd "$BUILD_DIR"
-
-export PATH="$BUILD_DIR/.heroku/node/bin:$BUILD_DIR/.heroku/yarn/bin:$RESOLVE_VERSION_BIN":$PATH
+export PATH="$BUILD_DIR/.heroku/node/bin:$BUILD_DIR/.heroku/yarn/bin:$BP_DIR/cmd/bin:$PATH"
 
 LOG_FILE=$(mktemp -t node-build-log.XXXXX)
 echo "" > "$LOG_FILE"

@@ -666,9 +666,9 @@ warning() {
 warn() {
   local tip=${1:-}
   local url=${2:-https://devcenter.heroku.com/articles/nodejs-support}
-  echo " !     $tip" || true
-  echo "       $url" || true
-  echo ""
+  echo -e " !     $tip" || true
+  echo -e "       $url" || true
+  echo -e ""
 }
 
 warn_aws_proxy() {
@@ -696,10 +696,6 @@ warn_vulnerable_node() {
 
   node_version="$1"
   security_release="$(security $BP_DIR/inventory/node.toml $node_version)"
-
-  echo "checking for security release..."
-  echo "node version: $node_version"
-  echo "security release: $security_release"
 
   if [[ "$security_release" != "" ]]; then
     warn "This version of Node has a known vulnerability. Update to the security release, $security_release to patch."
